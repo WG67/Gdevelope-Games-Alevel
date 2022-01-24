@@ -260,7 +260,7 @@
           "width": 739,
           "x": 29,
           "y": 583,
-          "zOrder": 6,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -290,9 +290,9 @@
           "name": "SmallBrownMeteor2",
           "persistentUuid": "b0ff44a5-60a8-4a9d-b6e2-a34f49e8bd08",
           "width": 0,
-          "x": 388,
-          "y": 286,
-          "zOrder": 8,
+          "x": 470,
+          "y": 164,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -399,10 +399,11 @@
           "effects": [],
           "behaviors": [
             {
-              "cost": 2,
-              "impassable": true,
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
             }
           ],
           "animations": [
@@ -444,7 +445,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -484,7 +493,40 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Bounce",
+              "type": "Bounce::Bounce",
+              "OldX": 0,
+              "OldY": 0,
+              "OldForceAngle": 0,
+              "OldForceLength": 0,
+              "NormalAngle": 0
+            },
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Circle",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 0.3,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -650,6 +692,27 @@
             }
           ],
           "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Ball",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
@@ -682,8 +745,16 @@
           "type": "Bounce::Bounce"
         },
         {
-          "name": "PathfindingObstacle",
-          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+          "name": "Physics2",
+          "type": "Physics2::Physics2Behavior",
+          "gravityX": 0,
+          "gravityY": 9.8,
+          "scaleX": 100,
+          "scaleY": 100
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
         }
       ]
     }
@@ -706,7 +777,7 @@
               },
               "parameters": [
                 "SmallBrownMeteor2",
-                "Platformtop",
+                "Platform",
                 "",
                 "",
                 ""
@@ -714,21 +785,7 @@
               "subInstructions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Bounce::Bounce::BounceOff"
-              },
-              "parameters": [
-                "SmallBrownMeteor2",
-                "Bounce",
-                "Platformtop",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
@@ -743,7 +800,7 @@
               },
               "parameters": [
                 "SmallBrownMeteor2",
-                "Platform",
+                "Platformtop",
                 "",
                 "",
                 ""
@@ -854,22 +911,41 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "Physics2::LinearVelocityLength"
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceAL"
               },
               "parameters": [
                 "SmallBrownMeteor2",
-                "Physics2",
-                "=",
+                "400",
+                "400",
                 "1"
               ],
               "subInstructions": []
             }
           ],
-          "actions": [],
           "events": []
         }
       ]
