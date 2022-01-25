@@ -835,7 +835,7 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "KnightMale",
+          "name": "Player",
           "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
           "width": 0,
           "x": 321,
@@ -936,6 +936,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -946,9 +948,7 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -1118,7 +1118,7 @@
           ]
         },
         {
-          "name": "KnightMale",
+          "name": "Player",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -1865,6 +1865,14 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -1885,7 +1893,7 @@
                 "value": "MettreX"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "+",
                 "2\n"
               ],
@@ -1897,7 +1905,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "=",
                 "2"
               ],
@@ -1930,7 +1938,7 @@
                 "value": "MettreX"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "-",
                 "2"
               ],
@@ -1942,7 +1950,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "=",
                 "3"
               ],
@@ -1975,7 +1983,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "=",
                 "1"
               ],
@@ -2008,7 +2016,7 @@
                 "value": "ChangeAnimation"
               },
               "parameters": [
-                "KnightMale",
+                "Player",
                 "=",
                 "4"
               ],
@@ -2057,7 +2065,7 @@
               },
               "parameters": [
                 "Skelet",
-                "KnightMale",
+                "Player",
                 "10\n",
                 ""
               ],
@@ -2076,6 +2084,167 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "KnightSword",
+                "Skelet",
+                "",
+                "",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Skelet",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Sword",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TimeScale"
+              },
+              "parameters": [
+                "",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "f"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "KnightSword",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "f"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "KnightMale",
+                    "KnightSword",
+                    "Player.X()",
+                    "Player.Y()",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
