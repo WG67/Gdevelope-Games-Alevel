@@ -438,6 +438,159 @@
         "name": "assets/Wall Right.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Goo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Wall Goo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_Right1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_Right1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_Right2 .png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_Right2 .png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_Right3 .png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_Right3 .png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Run_Right4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Run_Right4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_1 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_1 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_2 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_2 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_3 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_3 copy.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Male_Idle_4 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Male_Idle_4 copy.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -462,14 +615,14 @@
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.4510367763131855,
+        "zoomFactor": 1.0346418005913482,
         "windowMask": false
       },
       "objectsGroups": [
@@ -484,22 +637,6 @@
       ],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "587c9e7e-ca21-497f-bad4-a9edbc7e7adb",
-          "width": 32,
-          "x": 32,
-          "y": 0,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -624,6 +761,150 @@
           "x": 192,
           "y": -4640,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "f3a4b1c0-d305-4ed8-a89b-3c21d8323345",
+          "width": 0,
+          "x": 320,
+          "y": 160,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "1c226885-a6c8-4c6e-8d16-5a698684b4b7",
+          "width": 0,
+          "x": 352,
+          "y": 160,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "c92ba786-ca49-4c28-89f4-628720ffc843",
+          "width": 0,
+          "x": 384,
+          "y": 160,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "b81238ca-b221-4787-81bb-6d72fb70a8a3",
+          "width": 0,
+          "x": 416,
+          "y": 160,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "KnightMale",
+          "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
+          "width": 0,
+          "x": 320,
+          "y": 128,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "bbd7362d-9a24-4b85-881d-9b75957af052",
+          "width": 16,
+          "x": 352,
+          "y": 144,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "787f72b5-8281-46bc-aabd-f54e9962ac4b",
+          "width": 16,
+          "x": 368,
+          "y": 144,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "d0c1e708-95e8-4b6a-b949-514755fdf9d3",
+          "width": 16,
+          "x": 384,
+          "y": 144,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "WallGoo",
+          "persistentUuid": "843baea8-dd4d-43d0-9f6a-a1fcc8240c95",
+          "width": 16,
+          "x": 336,
+          "y": 144,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -808,7 +1089,26 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 2500,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 400,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "Hit",
@@ -924,12 +1224,172 @@
               "useMultipleDirections": false,
               "directions": [
                 {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_Right1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_Right2 .png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_Right3 .png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_Right4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run_left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Knight Male_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle_left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
                   "looping": true,
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Knight Male_Run_1.png",
+                      "image": "assets/Knight Male_Idle_1 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -946,7 +1406,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Knight Male_Run_2.png",
+                      "image": "assets/Knight Male_Idle_2 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -963,7 +1423,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Knight Male_Run_3.png",
+                      "image": "assets/Knight Male_Idle_3 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -980,7 +1440,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Knight Male_Run_4.png",
+                      "image": "assets/Knight Male_Idle_4 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1302,7 +1762,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "WallGoo",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1311,7 +1771,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Wall Goo.png",
+                      "image": "assets/Wall Goo.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1341,11 +1801,200 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Kight Movment and animations",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "KnightMale",
+                "d"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "KnightMale",
+                "+",
+                "2\n"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "KnightMale",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "a"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "KnightMale",
+                "-",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "KnightMale",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "d"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "KnightMale",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "a"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "KnightMale",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
       "layers": [
+        {
+          "ambientLightColorB": 7869680,
+          "ambientLightColorG": 6029040,
+          "ambientLightColorR": 7579912,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 32,
           "ambientLightColorG": 0,
@@ -1369,7 +2018,16 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
