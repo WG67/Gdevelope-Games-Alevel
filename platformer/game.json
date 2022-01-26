@@ -21,7 +21,7 @@
     "author": "",
     "windowWidth": 800,
     "windowHeight": 600,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope/platformer",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -617,7 +617,25 @@
         "metadata": "",
         "name": "assets/KnightSword-3.png",
         "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/right-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/right-1.png",
+        "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3 copy.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -649,7 +667,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.4200418005913498,
+        "zoomFactor": 0.518549274322391,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1284,6 +1302,182 @@
           "x": 512,
           "y": 176,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "5e720191-5214-4435-9b18-0fb5ecdd8f32",
+          "width": 0,
+          "x": 368,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallGoo",
+          "persistentUuid": "a9485518-c302-4102-8f0b-2e33dc97d247",
+          "width": 0,
+          "x": 368,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "5f3fe781-7fb8-4495-8d2d-ee75d04b0451",
+          "width": 0,
+          "x": 352,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "8087127a-99a4-42a1-b586-ae0cb974f67a",
+          "width": 0,
+          "x": 384,
+          "y": 112,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "dd9ab1a6-aadb-48f8-af92-e16b1722336b",
+          "width": 0,
+          "x": 368,
+          "y": 112,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "50c86d6a-2971-488a-a0d8-3eefe49b3875",
+          "width": 0,
+          "x": 352,
+          "y": 112,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "07c6718f-3e82-46b7-aece-a2d77b09916c",
+          "width": 0,
+          "x": 336,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "e966adbb-a90d-4ef4-adde-c8e53eadd1e3",
+          "width": 0,
+          "x": 336,
+          "y": 112,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "3260f52f-c454-4324-8808-26c24258f5d5",
+          "width": 0,
+          "x": 384,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "c891e559-0bb6-47f1-abb3-750dbc89195f",
+          "width": 0,
+          "x": 368,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Necromancer",
+          "persistentUuid": "19e53137-566b-4bb5-9aa6-38fef7191b95",
+          "width": 0,
+          "x": 480,
+          "y": 144,
+          "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1952,7 +2146,26 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 0,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "Idle",
@@ -2198,6 +2411,17 @@
         },
         {
           "height": 32,
+          "name": "Wall2",
+          "tags": "",
+          "texture": "Wall Right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
           "name": "Wall",
           "tags": "",
           "texture": "Wall Right.png",
@@ -2214,6 +2438,17 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "height": 16,
+          "name": "TiledGoo",
+          "tags": "",
+          "texture": "Wall Goo.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -2626,20 +2861,17 @@
           "conditions": [],
           "actions": [],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
-        {
-          "ambientLightColorB": 7869680,
-          "ambientLightColorG": 6029040,
-          "ambientLightColorR": 7579912,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "Layer",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
         {
           "ambientLightColorB": 32,
           "ambientLightColorG": 0,
@@ -3054,6 +3286,58 @@
       ]
     }
   ],
-  "externalLayouts": [],
+  "externalLayouts": [
+    {
+      "associatedLayout": "New scene",
+      "name": "NewExternalLayout",
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "TiledGoo",
+          "persistentUuid": "a9d2c608-bc37-40c6-92f2-68c35c81882c",
+          "width": 0,
+          "x": 296,
+          "y": 214,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "TiledGoo",
+          "persistentUuid": "0f8a72bb-4a98-4821-bb7a-50484fc71762",
+          "width": 0,
+          "x": 313,
+          "y": 213,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "editionSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1,
+        "windowMask": false
+      }
+    }
+  ],
   "externalSourceFiles": []
 }
