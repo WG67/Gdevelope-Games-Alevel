@@ -636,6 +636,132 @@
         "name": "assets/KnightSword-3 copy.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Clean2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Clean.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Clean.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Cracks72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Cracks7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Cracks7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Ladder2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Ladder.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/16x16 Dungeon Tileset/Floor/Floor_Ladder.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Clean-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Clean-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -667,7 +793,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.518549274322391,
+        "zoomFactor": 1.4418000000000006,
         "windowMask": false
       },
       "objectsGroups": [
@@ -814,13 +940,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "Wall",
           "persistentUuid": "f3a4b1c0-d305-4ed8-a89b-3c21d8323345",
           "width": 0,
           "x": 320,
-          "y": 160,
+          "y": 176,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -830,13 +956,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "Wall",
           "persistentUuid": "1c226885-a6c8-4c6e-8d16-5a698684b4b7",
           "width": 0,
           "x": 352,
-          "y": 160,
+          "y": 176,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -846,13 +972,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "Wall",
           "persistentUuid": "c92ba786-ca49-4c28-89f4-628720ffc843",
           "width": 0,
           "x": 384,
-          "y": 160,
+          "y": 176,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -862,13 +988,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "Wall",
           "persistentUuid": "b81238ca-b221-4787-81bb-6d72fb70a8a3",
           "width": 0,
           "x": 416,
-          "y": 160,
+          "y": 176,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -883,8 +1009,8 @@
           "name": "Player",
           "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
           "width": 0,
-          "x": 321,
-          "y": 135,
+          "x": 352,
+          "y": 100,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -894,13 +1020,13 @@
           "angle": 0,
           "customSize": true,
           "height": 16,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "bbd7362d-9a24-4b85-881d-9b75957af052",
           "width": 16,
           "x": 352,
-          "y": 144,
+          "y": 160,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -910,13 +1036,13 @@
           "angle": 0,
           "customSize": true,
           "height": 16,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "787f72b5-8281-46bc-aabd-f54e9962ac4b",
           "width": 16,
           "x": 368,
-          "y": 144,
+          "y": 160,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -926,13 +1052,13 @@
           "angle": 0,
           "customSize": true,
           "height": 16,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "d0c1e708-95e8-4b6a-b949-514755fdf9d3",
           "width": 16,
           "x": 384,
-          "y": 144,
+          "y": 160,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -942,13 +1068,13 @@
           "angle": 0,
           "customSize": true,
           "height": 16,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallGoo",
           "persistentUuid": "843baea8-dd4d-43d0-9f6a-a1fcc8240c95",
           "width": 16,
           "x": 336,
-          "y": 144,
+          "y": 160,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -963,8 +1089,8 @@
           "name": "Skelet",
           "persistentUuid": "30023241-ab63-43f0-909c-b8e68222aecc",
           "width": 0,
-          "x": 416,
-          "y": 144,
+          "x": 368,
+          "y": 64,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -979,25 +1105,9 @@
           "name": "Skelet",
           "persistentUuid": "53e5d799-f9aa-4cfb-80f0-365f91b76f2d",
           "width": 0,
-          "x": 400,
-          "y": 144,
+          "x": 336,
+          "y": 64,
           "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "8ca8e2e5-c8bc-4779-bd97-129c54713825",
-          "width": 0,
-          "x": 448,
-          "y": 176,
-          "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1045,70 +1155,6 @@
           "width": 0,
           "x": 224,
           "y": -48,
-          "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "95f2f4dc-a2a4-44a3-9709-dfe18718faf6",
-          "width": 0,
-          "x": 512,
-          "y": 176,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "bb14fe70-1d44-441c-a781-e5134893439d",
-          "width": 0,
-          "x": 464,
-          "y": 176,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "f36172f9-22f9-4e3e-80d9-25b851d751e1",
-          "width": 0,
-          "x": 480,
-          "y": 176,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "WallRight",
-          "persistentUuid": "aaa9a6ec-b503-4d02-9b17-673015b7244b",
-          "width": 0,
-          "x": 496,
-          "y": 176,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -1262,61 +1308,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Wall",
-          "persistentUuid": "05fb89e9-2a31-4956-85e2-cfed181d3963",
-          "width": 0,
-          "x": 448,
-          "y": 176,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Wall",
-          "persistentUuid": "681b01d1-b3cd-4bcd-88ae-6af83119fd7b",
-          "width": 0,
-          "x": 480,
-          "y": 176,
-          "zOrder": 31,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Wall",
-          "persistentUuid": "afae0c48-41af-4e9f-bc36-5c4ef61c3f43",
-          "width": 0,
-          "x": 512,
-          "y": 176,
-          "zOrder": 32,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallBannerGreen",
           "persistentUuid": "5e720191-5214-4435-9b18-0fb5ecdd8f32",
           "width": 0,
           "x": 368,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1326,13 +1324,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallGoo",
           "persistentUuid": "a9485518-c302-4102-8f0b-2e33dc97d247",
           "width": 0,
           "x": 368,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1342,13 +1340,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "5f3fe781-7fb8-4495-8d2d-ee75d04b0451",
           "width": 0,
           "x": 352,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1358,13 +1356,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "8087127a-99a4-42a1-b586-ae0cb974f67a",
           "width": 0,
           "x": 384,
-          "y": 112,
+          "y": 128,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1374,13 +1372,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "dd9ab1a6-aadb-48f8-af92-e16b1722336b",
           "width": 0,
           "x": 368,
-          "y": 112,
+          "y": 128,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1390,13 +1388,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "50c86d6a-2971-488a-a0d8-3eefe49b3875",
           "width": 0,
           "x": 352,
-          "y": 112,
+          "y": 128,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1406,13 +1404,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "07c6718f-3e82-46b7-aece-a2d77b09916c",
           "width": 0,
           "x": 336,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1422,13 +1420,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallRight",
           "persistentUuid": "e966adbb-a90d-4ef4-adde-c8e53eadd1e3",
           "width": 0,
           "x": 336,
-          "y": 112,
+          "y": 128,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1438,13 +1436,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallBannerGreen",
           "persistentUuid": "3260f52f-c454-4324-8808-26c24258f5d5",
           "width": 0,
           "x": 384,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1454,13 +1452,13 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Background",
           "locked": false,
           "name": "WallBannerGreen",
           "persistentUuid": "c891e559-0bb6-47f1-abb3-750dbc89195f",
           "width": 0,
           "x": 368,
-          "y": 128,
+          "y": 144,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1475,9 +1473,473 @@
           "name": "Necromancer",
           "persistentUuid": "19e53137-566b-4bb5-9aa6-38fef7191b95",
           "width": 0,
-          "x": 480,
-          "y": 144,
+          "x": 416,
+          "y": 80,
           "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallRight",
+          "persistentUuid": "75048da5-68e6-4ca6-9445-f02eaccc477a",
+          "width": 0,
+          "x": 336,
+          "y": 112,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "e8872b8b-d6b5-4eca-98ad-1166ceea320e",
+          "width": 0,
+          "x": 448,
+          "y": 160,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "8eea127b-724f-4b54-b935-935b8e9e16cd",
+          "width": 0,
+          "x": 512,
+          "y": 160,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "8d7a3085-a555-4b43-adf2-2e34a618ff10",
+          "width": 0,
+          "x": 480,
+          "y": 160,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "b818f5b9-b265-4e55-9ebe-ee14198b32cb",
+          "width": 0,
+          "x": 512,
+          "y": 128,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "f6265b67-6dbe-4a82-ab66-b9a34895fd3e",
+          "width": 0,
+          "x": 480,
+          "y": 128,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "170cc45e-dd67-4e90-bdc3-5c8f258eba59",
+          "width": 0,
+          "x": 448,
+          "y": 128,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "0e550277-3e0e-46dd-9630-10d2a6c89925",
+          "width": 0,
+          "x": 320,
+          "y": 176,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "9f405772-ff98-4277-b115-8de81eebe1bb",
+          "width": 0,
+          "x": 336,
+          "y": 176,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "83e1f3cc-4403-4f05-aef1-93c541f20dfe",
+          "width": 0,
+          "x": 496,
+          "y": 144,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallGoo",
+          "persistentUuid": "ca9ab82c-f1ee-4355-8cc8-597c7f4c47a6",
+          "width": 0,
+          "x": 464,
+          "y": 144,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "b9cf1d9b-265a-4cad-855e-39fd4b45833f",
+          "width": 0,
+          "x": 560,
+          "y": 160,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "3471e039-683c-44e3-b5bd-640aa493758e",
+          "width": 32,
+          "x": 544,
+          "y": 128,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "d8ae38a2-e6e4-4965-99e7-b8d8f6e19127",
+          "width": 16,
+          "x": 544,
+          "y": 160,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "839540d6-e3a1-4e9d-93c9-a933e2ad8972",
+          "width": 0,
+          "x": 576,
+          "y": 128,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "35d0d986-9626-45bb-b343-41b6e8891989",
+          "width": 0,
+          "x": 592,
+          "y": 160,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallGoo",
+          "persistentUuid": "38dc7c43-98e8-4489-b3f9-598a54b5ed78",
+          "width": 0,
+          "x": 624,
+          "y": 176,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall2",
+          "persistentUuid": "fcc7f627-41e6-4d85-93a2-9ea7775d0787",
+          "width": 0,
+          "x": 640,
+          "y": 160,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "8cfa6223-09f1-470a-8e24-9ce4d84da3d0",
+          "width": 0,
+          "x": 624,
+          "y": 144,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "a7eb2ff5-5006-4a67-b9d6-a6f0e76ed6c1",
+          "width": 0,
+          "x": 608,
+          "y": 128,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "2838945a-a0c1-4c7d-9659-c836e5690033",
+          "width": 0,
+          "x": 640,
+          "y": 128,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "5e5712ea-5110-444a-8770-89f5f2caa63c",
+          "width": 0,
+          "x": 640,
+          "y": 144,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "WallBannerGreen",
+          "persistentUuid": "cd5ff27f-4e42-4077-b9de-7a5f3ca62be9",
+          "width": 0,
+          "x": 544,
+          "y": 176,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "674dbe58-08ce-4edd-9d1f-a21b968cb0e3",
+          "width": 0,
+          "x": 448,
+          "y": 192,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "a4f7f726-e8b3-46f6-82cc-a1eac094b212",
+          "width": 0,
+          "x": 576,
+          "y": 192,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "cf5b8266-e829-4b20-bc57-f0f62a000438",
+          "width": 0,
+          "x": 400,
+          "y": 128,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "9635ce0a-ead3-413d-bb09-682344e8730b",
+          "width": 0,
+          "x": 432,
+          "y": 128,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "09b78edf-b2fe-41dd-8aa6-74749135c3a9",
+          "width": 0,
+          "x": 416,
+          "y": 144,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "c74c5456-3ebe-4900-9fa5-fa51aa97aa06",
+          "width": 0,
+          "x": 400,
+          "y": 144,
+          "zOrder": 75,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2101,7 +2563,7 @@
         },
         {
           "name": "WallRight",
-          "tags": "",
+          "tags": "Background",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2148,6 +2610,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -2158,9 +2622,7 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -2429,15 +2891,7 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
+          "behaviors": []
         },
         {
           "height": 16,
@@ -2449,6 +2903,286 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "name": "Floor",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Clean",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Clean-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks5",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cracks7",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Cracks7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ladder",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02500000037252903,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Floor_Ladder.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -2464,6 +3198,14 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [],
           "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         },
         {
           "disabled": false,
@@ -2869,9 +3611,41 @@
           "conditions": [],
           "actions": [],
           "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Camara",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 6029040,
+          "ambientLightColorR": 8219696,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 32,
           "ambientLightColorG": 0,
