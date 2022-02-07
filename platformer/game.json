@@ -594,24 +594,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/KnightSword-1-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-1-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/right-1.png",
         "kind": "image",
         "metadata": "",
@@ -1379,6 +1361,645 @@
         "name": "assets/Cracks5-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-7-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-6-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-6-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-6-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-7-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-6-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-6-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-7-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-7-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-12.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1410,7 +2031,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.8142000000000003,
+        "zoomFactor": 0.8586000000000006,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3528,14 +4149,6 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "FaceForward",
-              "type": "FaceForward::FaceForward",
-              "RotationSpeed": 10,
-              "PreviousX": 0,
-              "PreviousY": 0,
-              "MovementDirection": 0
-            },
-            {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "jumpSpeed": 0,
@@ -3771,7 +4384,7 @@
                   "timeBetweenFrames": 0.02500000037252903,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Knight Male_Hit.png",
                       "points": [],
                       "originPoint": {
@@ -3785,7 +4398,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3800,7 +4432,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Knight Male_Idle_1.png",
                       "points": [],
                       "originPoint": {
@@ -3814,10 +4446,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Knight Male_Idle_2.png",
                       "points": [],
                       "originPoint": {
@@ -3831,10 +4482,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Knight Male_Idle_3.png",
                       "points": [],
                       "originPoint": {
@@ -3848,10 +4518,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Knight Male_Idle_4.png",
                       "points": [],
                       "originPoint": {
@@ -3865,7 +4554,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3880,7 +4588,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_Right1.png",
                       "points": [],
                       "originPoint": {
@@ -3894,10 +4602,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_Right2 .png",
                       "points": [],
                       "originPoint": {
@@ -3911,10 +4638,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_Right3 .png",
                       "points": [],
                       "originPoint": {
@@ -3928,10 +4674,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_Right4.png",
                       "points": [],
                       "originPoint": {
@@ -3945,7 +4710,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3960,7 +4744,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_1.png",
                       "points": [],
                       "originPoint": {
@@ -3974,10 +4758,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_2.png",
                       "points": [],
                       "originPoint": {
@@ -3991,10 +4794,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_3.png",
                       "points": [],
                       "originPoint": {
@@ -4008,10 +4830,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Run_4.png",
                       "points": [],
                       "originPoint": {
@@ -4025,7 +4866,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -4040,7 +4900,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Idle_1 copy.png",
                       "points": [],
                       "originPoint": {
@@ -4054,10 +4914,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Idle_2 copy.png",
                       "points": [],
                       "originPoint": {
@@ -4071,10 +4950,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Idle_3 copy.png",
                       "points": [],
                       "originPoint": {
@@ -4088,10 +4986,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Knight Male_Idle_4 copy.png",
                       "points": [],
                       "originPoint": {
@@ -4105,121 +5022,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "KnightSwordleft",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Sticker",
-              "type": "Sticker::Sticker",
-              "OnlyFollowPosition": false
-            }
-          ],
-          "animations": [
-            {
-              "name": "a",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-3 copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-2-0 copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-3-0 copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-4 copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-5 copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -4247,12 +5069,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
-                  "timeBetweenFrames": 0.05000000074505806,
+                  "looping": false,
+                  "timeBetweenFrames": 0.17000000178813934,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-3.png",
+                      "image": "assets/KnightSword-1-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4269,7 +5091,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-2-0.png",
+                      "image": "assets/KnightSword-2-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4286,7 +5108,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-3-0.png",
+                      "image": "assets/KnightSword-3-13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4303,7 +5125,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-4.png",
+                      "image": "assets/KnightSword-4-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4320,7 +5142,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-5.png",
+                      "image": "assets/KnightSword-5-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4336,17 +5158,6 @@
                       "customCollisionMask": []
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "name": "a",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": []
                 }
               ]
             }
@@ -6344,8 +7155,38 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Skelet",
+                "Player",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "Variable(CheckpointX)",
+                "=",
+                "Variable(CheckpointY)"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
@@ -6915,10 +7756,6 @@
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "FaceForward",
-          "type": "FaceForward::FaceForward"
-        },
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
