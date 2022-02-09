@@ -1029,24 +1029,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/KnightSword-2-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-2-0.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-3-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3-0.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/KnightSword-4.png",
         "kind": "image",
         "metadata": "",
@@ -1391,24 +1373,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/KnightSword-5-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-5-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-1-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/KnightSword-2-1.png",
         "kind": "image",
         "metadata": "",
@@ -1422,15 +1386,6 @@
         "kind": "image",
         "metadata": "",
         "name": "assets/KnightSword-3-2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-4-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-4-1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2007,6 +1962,51 @@
         "name": "assets/KnightSword-5 copy.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5-0.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2029,7 +2029,7 @@
       "title": "",
       "v": 84,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 16,
         "gridHeight": 16,
@@ -2037,8 +2037,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.9222000000000015,
+        "snap": false,
+        "zoomFactor": 0.7488000000000014,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4160,7 +4160,7 @@
           "name": "NewObject",
           "persistentUuid": "5448d87a-4145-41b4-9ce0-bf0a3b52330e",
           "width": 0,
-          "x": 368,
+          "x": 620,
           "y": -22,
           "zOrder": 172,
           "numberProperties": [],
@@ -5255,7 +5255,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-1-10.png",
+                      "image": "assets/KnightSword-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5272,7 +5272,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-2-11.png",
+                      "image": "assets/KnightSword-2-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5289,7 +5289,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-3-13.png",
+                      "image": "assets/KnightSword-3-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5306,7 +5306,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-4-11.png",
+                      "image": "assets/KnightSword-4-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5323,7 +5323,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-5 copy.png",
+                      "image": "assets/KnightSword-5-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7941,12 +7941,10 @@
             {
               "type": {
                 "inverted": false,
-                "value": "VarScene"
+                "value": "DepartScene"
               },
               "parameters": [
-                "time",
-                "=",
-                "40"
+                ""
               ],
               "subInstructions": []
             }
@@ -7955,24 +7953,11 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarScene"
+                "value": "ResetTimer"
               },
               "parameters": [
-                "time",
-                "-",
-                "1\n"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "NewObject",
-                "=",
-                "ToString(Variable(time)/60)"
+                "",
+                "\"Timer\""
               ],
               "subInstructions": []
             }
@@ -7984,8 +7969,30 @@
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [],
-          "events": []
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "NewObject",
+                "=",
+                "\"0\" + ToString(TimerElapsedTime(\"Timer\"))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [],
+              "events": []
+            }
+          ]
         },
         {
           "disabled": false,
@@ -8061,6 +8068,70 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "@Bouh",
+      "description": "Expressions to transform time in seconds to format like HH:MM:SS. Ideal to display timers on screen.",
+      "extensionNamespace": "",
+      "fullName": "Time formatting",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWNsb2NrLWRpZ2l0YWwiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiw2QTIsMiAwIDAsMCAwLDhWMTZBMiwyIDAgMCwwIDIsMThIMjJBMiwyIDAgMCwwIDI0LDE2VjhBMiwyIDAgMCwwIDIyLDZNMiw4SDIyVjE2SDJNMyw5VjEwLjVINi4yNUwzLDE1SDQuNzVMOCwxMC41VjlNOS4yNSw5VjEwLjVIMTAuNzVWOU0xMiw5VjEwLjVIMTMuNVYxNUgxNVY5TTE3LDlBMSwxIDAgMCwwIDE2LDEwVjE0QTEsMSAwIDAsMCAxNywxNUgyMEExLDEgMCAwLDAgMjEsMTRWMTBBMSwxIDAgMCwwIDIwLDlNMTcuNSwxMC41SDE5LjVWMTMuNUgxNy41TTkuMjUsMTMuNVYxNUgxMC43NVYxMy41IiAvPjwvc3ZnPg==",
+      "name": "TimeFormatter",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/clock-digital.svg",
+      "shortDescription": "Expressions to transform time in seconds to format like HH:MM:SS. Ideal to display timers on screen.",
+      "version": "0.0.1",
+      "origin": {
+        "identifier": "TimeFormatter",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "time",
+        "timer",
+        "format",
+        "hours",
+        "minutes",
+        "seconds"
+      ],
+      "authorIds": [
+        "2OwwM8ToR9dx9RJ2sAKTcrLmCB92"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [
+        {
+          "description": "Format time in seconds to HH:MM:SS.",
+          "fullName": "Format time in seconds to HH:MM:SS",
+          "functionType": "StringExpression",
+          "group": "",
+          "name": "SecondsToHHMMSS",
+          "private": false,
+          "sentence": "Format time _PARAM1_ to HH:MM:SS in _PARAM2_",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "//custom function in custom fonction ~~Woow~~\r\nvar format_time = function (time_second) {\r\n    date = new Date(null);\r\n    date.setSeconds(time_second);\r\n    if (time_second >= 3600) {\r\n        return date.toISOString().substr(11, 8); // MM:SS\r\n    } else {\r\n        return date.toISOString().substr(14, 5); // HH:MM:SS\r\n    }\r\n}\r\n\r\neventsFunctionContext.returnValue = format_time(eventsFunctionContext.getArgument(\"TimeInSeconds\"));",
+              "parameterObjects": "",
+              "useStrict": false,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "codeOnly": false,
+              "defaultValue": "",
+              "description": "Time, in seconds",
+              "longDescription": "",
+              "name": "TimeInSeconds",
+              "optional": false,
+              "supplementaryInformation": "",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": []
+    },
     {
       "author": "Tristan Rhodes (https://victrisgames.itch.io/)",
       "description": "Set the angle of the object to match the direction of movement. You can customize the speed of the rotation.\n\nThis works with any kind of movement (forces, physics...) as it uses the object center position to compute the rotation of the object.",
