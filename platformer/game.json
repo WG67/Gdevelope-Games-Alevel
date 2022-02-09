@@ -1200,15 +1200,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/KnightSword-5 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-5 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_1 copy.png",
         "kind": "image",
         "metadata": "",
@@ -1957,40 +1948,11 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-1-10.png",
-        "kind": "image",
+        "file": "Elfboyclassic-PKZgZ.ttf",
+        "kind": "font",
         "metadata": "",
-        "name": "assets/KnightSword-1-10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-2-11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-2-11.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-3-13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3-13.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-4-11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-4-11.png",
-        "smoothed": true,
-        "userAdded": true
+        "name": "Elfboyclassic-PKZgZ.ttf",
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -2000,6 +1962,51 @@
         "name": "assets/KnightSword-5-12.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-1-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-5 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-5 copy.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2031,7 +2038,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8586000000000006,
+        "zoomFactor": 0.9222000000000015,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2040,7 +2047,13 @@
           "objects": []
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "name": "time",
+          "type": "string",
+          "value": "0"
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -4137,6 +4150,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "5448d87a-4145-41b4-9ce0-bf0a3b52330e",
+          "width": 0,
+          "x": 368,
+          "y": -22,
+          "zOrder": 172,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4177,7 +4206,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Idle_1.png",
                       "points": [],
                       "originPoint": {
@@ -4191,10 +4220,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Idle_2.png",
                       "points": [],
                       "originPoint": {
@@ -4208,10 +4256,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Idle_3.png",
                       "points": [],
                       "originPoint": {
@@ -4225,10 +4292,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Idle_4.png",
                       "points": [],
                       "originPoint": {
@@ -4242,7 +4328,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -4257,7 +4362,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Run_1.png",
                       "points": [],
                       "originPoint": {
@@ -4271,10 +4376,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Run_2.png",
                       "points": [],
                       "originPoint": {
@@ -4288,10 +4412,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Run_3.png",
                       "points": [],
                       "originPoint": {
@@ -4305,10 +4448,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Skelet_Run_4.png",
                       "points": [],
                       "originPoint": {
@@ -4322,7 +4484,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3.9969635009765625,
+                            "y": 2.728890895843506
+                          },
+                          {
+                            "x": 12.071340560913086,
+                            "y": 2.7639222145080566
+                          },
+                          {
+                            "x": 12.254534721374512,
+                            "y": 16
+                          },
+                          {
+                            "x": 4.166974067687988,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -5070,7 +5251,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.17000000178813934,
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -5142,7 +5323,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/KnightSword-5-12.png",
+                      "image": "assets/KnightSword-5 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6873,6 +7054,26 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "40",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 100,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -7717,6 +7918,81 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Timer",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "time",
+                "=",
+                "40"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "time",
+                "-",
+                "1\n"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "NewObject",
+                "=",
+                "ToString(Variable(time)/60)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
