@@ -2029,7 +2029,7 @@
       "title": "",
       "v": 84,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 16,
         "gridHeight": 16,
@@ -2037,8 +2037,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.9098000000000005,
+        "snap": false,
+        "zoomFactor": 3.800399999999999,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2256,8 +2256,8 @@
           "name": "Player",
           "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
           "width": 0,
-          "x": 200,
-          "y": -5,
+          "x": 235,
+          "y": 26,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -2304,8 +2304,8 @@
           "name": "Skelet",
           "persistentUuid": "53e5d799-f9aa-4cfb-80f0-365f91b76f2d",
           "width": 0,
-          "x": 351,
-          "y": 39,
+          "x": 289,
+          "y": 47,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -4179,6 +4179,22 @@
           "x": 288,
           "y": 64,
           "zOrder": 173,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Dont Need",
+          "locked": false,
+          "name": "NewObject2",
+          "persistentUuid": "73080030-fddd-488a-91b1-c70499463c37",
+          "width": 0,
+          "x": 237,
+          "y": 2,
+          "zOrder": 174,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7090,6 +7106,26 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Name Here",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 15,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -8110,6 +8146,17 @@
       ],
       "layers": [
         {
+          "ambientLightColorB": 167785076,
+          "ambientLightColorG": 6031360,
+          "ambientLightColorR": 8262528,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Dont Need",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 0,
           "ambientLightColorG": 6029040,
           "ambientLightColorR": 8219696,
@@ -8385,7 +8432,7 @@
                 "",
                 "\"Time_Quit\"",
                 ">=",
-                "2"
+                "1"
               ],
               "subInstructions": []
             },
@@ -8405,10 +8452,12 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PopScene"
+                "value": "Scene"
               },
               "parameters": [
-                ""
+                "",
+                "\"New scene\"",
+                "no"
               ],
               "subInstructions": []
             }
