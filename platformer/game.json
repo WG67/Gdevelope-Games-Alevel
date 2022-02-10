@@ -2029,7 +2029,7 @@
       "title": "",
       "v": 84,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 16,
         "gridHeight": 16,
@@ -2037,8 +2037,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.7488000000000014,
+        "snap": true,
+        "zoomFactor": 0.9098000000000005,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2843,7 +2843,7 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "Background",
+          "layer": "",
           "locked": false,
           "name": "Floor",
           "persistentUuid": "3c7142b6-1f17-492b-aaa4-67bb03dc6655",
@@ -3001,13 +3001,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 16,
           "layer": "",
           "locked": false,
           "name": "Floor",
           "persistentUuid": "d757da64-20d3-4f41-b045-6ec8c96a9953",
-          "width": 0,
+          "width": 96,
           "x": 192,
           "y": 64,
           "zOrder": 102,
@@ -3050,14 +3050,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 416,
+          "height": 432,
           "layer": "Background",
           "locked": false,
           "name": "Wall",
           "persistentUuid": "f986a0a6-0fdd-41f3-aec9-d9e55fc30c05",
           "width": 256,
           "x": 544,
-          "y": 192,
+          "y": 176,
           "zOrder": 105,
           "numberProperties": [],
           "stringProperties": [],
@@ -4154,15 +4154,31 @@
         {
           "angle": 0,
           "customSize": false,
-          "height": 0,
+          "height": 73,
           "layer": "",
           "locked": false,
           "name": "NewObject",
           "persistentUuid": "5448d87a-4145-41b4-9ce0-bf0a3b52330e",
-          "width": 0,
-          "x": 620,
-          "y": -22,
+          "width": 103,
+          "x": 628,
+          "y": -25,
           "zOrder": 172,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Floor2",
+          "persistentUuid": "cb8770bf-0ccf-43cc-bf8c-940aa8cd788a",
+          "width": 0,
+          "x": 288,
+          "y": 64,
+          "zOrder": 173,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7882,6 +7898,19 @@
             {
               "type": {
                 "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer\"",
+                ">=",
+                "20"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -7999,7 +8028,7 @@
                 "",
                 "\"Timer\"",
                 ">=",
-                "100"
+                "30"
               ],
               "subInstructions": []
             }
@@ -8014,6 +8043,64 @@
                 "",
                 "\"New scene\"",
                 ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Quit Game",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer\"",
+                ">=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Quit\""
               ],
               "subInstructions": []
             }
@@ -8082,6 +8169,278 @@
           "type": "Sticker::Sticker"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Quit",
+      "name": "Quit",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5791999999999999,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Ask",
+          "persistentUuid": "37fdbf66-c10a-46b2-8b75-dd1db2d5f918",
+          "width": 0,
+          "x": 14,
+          "y": 263,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Time",
+          "persistentUuid": "6fdb8054-2006-48df-974c-2bbfd6dff462",
+          "width": 0,
+          "x": 706,
+          "y": 326,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Time",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Do you Want to Quit?",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Ask",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Do you Want to Quit?",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Time",
+                "=",
+                "\"0\" + ToString(TimerElapsedTime(\"Time_Quit\"))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\"",
+                ">=",
+                "10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\"",
+                ">=",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 1,
+          "ambientLightColorG": 134217728,
+          "ambientLightColorR": 1597066561,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
