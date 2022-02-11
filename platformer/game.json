@@ -2007,6 +2007,31 @@
         "name": "assets/KnightSword-5-0.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Elfboyclassic-PKZgZ2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Elfboyclassic-PKZgZ2.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "My Song 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "My Song 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "My Song 3.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "My Song 3.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2038,7 +2063,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6220000000000018,
+        "zoomFactor": 0.9339999999999962,
         "windowMask": false
       },
       "objectsGroups": [
@@ -7119,7 +7144,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Name Here",
-          "font": "Elfboyclassic-PKZgZ.ttf",
+          "font": "Elfboyclassic-PKZgZ2.ttf",
           "characterSize": 15,
           "color": {
             "b": 0,
@@ -8137,6 +8162,53 @@
               "parameters": [
                 "",
                 "\"Quit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Music",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "My Song 3.wav",
+                "yes",
+                "25",
+                "1"
               ],
               "subInstructions": []
             }
