@@ -2008,6 +2008,7 @@
         "smoothed": true,
         "userAdded": false
 <<<<<<< HEAD
+<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
@@ -2278,6 +2279,8 @@
         "name": "assets/Run_left-4-0.png",
         "smoothed": true,
         "userAdded": true
+=======
+>>>>>>> parent of e228b46 (Update)
 =======
 >>>>>>> parent of e228b46 (Update)
       }
@@ -4837,9 +4840,12 @@
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "ignoreDefaultControls": false,
               "gravity": 1000,
               "jumpSpeed": 400,
+=======
+>>>>>>> parent of e228b46 (Update)
 =======
 >>>>>>> parent of e228b46 (Update)
               "acceleration": 1500,
@@ -5082,7 +5088,11 @@
                     {
                       "hasCustomCollisionMask": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
                       "image": "assets/Run-1-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right1.png",
+>>>>>>> parent of e228b46 (Update)
 =======
                       "image": "assets/Knight Male_Run_Right1.png",
 >>>>>>> parent of e228b46 (Update)
@@ -5122,7 +5132,11 @@
                     {
                       "hasCustomCollisionMask": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
                       "image": "assets/Run-2-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right2 .png",
+>>>>>>> parent of e228b46 (Update)
 =======
                       "image": "assets/Knight Male_Run_Right2 .png",
 >>>>>>> parent of e228b46 (Update)
@@ -5162,7 +5176,11 @@
                     {
                       "hasCustomCollisionMask": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
                       "image": "assets/Run-3-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right3 .png",
+>>>>>>> parent of e228b46 (Update)
 =======
                       "image": "assets/Knight Male_Run_Right3 .png",
 >>>>>>> parent of e228b46 (Update)
@@ -5202,7 +5220,11 @@
                     {
                       "hasCustomCollisionMask": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
                       "image": "assets/Run-4-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right4.png",
+>>>>>>> parent of e228b46 (Update)
 =======
                       "image": "assets/Knight Male_Run_Right4.png",
 >>>>>>> parent of e228b46 (Update)
@@ -5551,6 +5573,9 @@
 =======
                             "x": 0,
                             "y": 28
+<<<<<<< HEAD
+>>>>>>> parent of e228b46 (Update)
+=======
 >>>>>>> parent of e228b46 (Update)
                           }
                         ]
@@ -7545,6 +7570,7 @@
               ],
               "subInstructions": []
 <<<<<<< HEAD
+<<<<<<< HEAD
             },
             {
               "type": {
@@ -7556,6 +7582,8 @@
                 "yes"
               ],
               "subInstructions": []
+=======
+>>>>>>> parent of e228b46 (Update)
 =======
 >>>>>>> parent of e228b46 (Update)
             }
