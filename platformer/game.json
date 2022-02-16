@@ -1146,6 +1146,42 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/KnightSword-3 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-0 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-0 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_1 copy.png",
         "kind": "image",
         "metadata": "",
@@ -1928,76 +1964,13 @@
         "userAdded": false
       },
       {
-        "file": "My Song 3.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "My Song 3.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "userAdded": true
-      },
-      {
-        "file": "My Song 4.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "My Song 4.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight Sword.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Knight Sword.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-3 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-2-0 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-2-0 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-3-0 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3-0 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-4 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-4 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
         "alwaysLoaded": false,
         "file": "assets/KnightSword-1-0.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/KnightSword-1-0.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -2015,7 +1988,7 @@
         "metadata": "",
         "name": "assets/KnightSword-3-0.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -2034,6 +2007,7 @@
         "name": "assets/KnightSword-5-0.png",
         "smoothed": true,
         "userAdded": false
+<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
@@ -2304,6 +2278,8 @@
         "name": "assets/Run_left-4-0.png",
         "smoothed": true,
         "userAdded": true
+=======
+>>>>>>> parent of e228b46 (Update)
       }
     ],
     "resourceFolders": []
@@ -2335,7 +2311,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1780000000000022,
+        "zoomFactor": 0.6220000000000018,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4860,12 +4836,18 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+<<<<<<< HEAD
               "ignoreDefaultControls": false,
               "gravity": 1000,
               "jumpSpeed": 400,
+=======
+>>>>>>> parent of e228b46 (Update)
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
+              "gravity": 2500,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 400,
@@ -5099,7 +5081,11 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "assets/Run-1-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right1.png",
+>>>>>>> parent of e228b46 (Update)
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5135,7 +5121,11 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "assets/Run-2-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right2 .png",
+>>>>>>> parent of e228b46 (Update)
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5171,7 +5161,11 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "assets/Run-3-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right3 .png",
+>>>>>>> parent of e228b46 (Update)
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5207,7 +5201,11 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "assets/Run-4-1.png",
+=======
+                      "image": "assets/Knight Male_Run_Right4.png",
+>>>>>>> parent of e228b46 (Update)
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5547,8 +5545,13 @@
                             "y": 27.739849090576172
                           },
                           {
+<<<<<<< HEAD
                             "x": 18.369918823242188,
                             "y": 28.091501235961914
+=======
+                            "x": 0,
+                            "y": 28
+>>>>>>> parent of e228b46 (Update)
                           }
                         ]
                       ]
@@ -7104,7 +7107,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
+                      "hasCustomCollisionMask": false,
                       "image": "assets/NewObject-1-0.png",
                       "points": [],
                       "originPoint": {
@@ -7118,42 +7121,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14.741778373718262,
-                            "y": 4.792981147766113
-                          },
-                          {
-                            "x": 14.852315902709961,
-                            "y": 10.0767240524292
-                          },
-                          {
-                            "x": 10.256304740905762,
-                            "y": 14.9271879196167
-                          },
-                          {
-                            "x": 4.768560886383057,
-                            "y": 14.802984237670898
-                          },
-                          {
-                            "x": 0.9975677728652954,
-                            "y": 10.343035697937012
-                          },
-                          {
-                            "x": 1.1260559558868408,
-                            "y": 5.424249172210693
-                          },
-                          {
-                            "x": 5.240399360656738,
-                            "y": 1.048608422279358
-                          },
-                          {
-                            "x": 10.466934204101562,
-                            "y": 0.900256335735321
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -7576,6 +7544,7 @@
                 "3"
               ],
               "subInstructions": []
+<<<<<<< HEAD
             },
             {
               "type": {
@@ -7587,6 +7556,8 @@
                 "yes"
               ],
               "subInstructions": []
+=======
+>>>>>>> parent of e228b46 (Update)
             }
           ],
           "events": []
@@ -8283,7 +8254,7 @@
                 "",
                 "\"Timer\"",
                 ">=",
-                "10"
+                "20"
               ],
               "subInstructions": []
             },
@@ -8407,7 +8378,7 @@
                 "",
                 "\"Timer\"",
                 ">=",
-                "90"
+                "30"
               ],
               "subInstructions": []
             }
@@ -8480,53 +8451,6 @@
               "parameters": [
                 "",
                 "\"Quit\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "disabled": false,
-          "folded": false,
-          "name": "Music",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [],
-          "parameters": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "My Song 4.wav",
-                "yes",
-                "50",
-                ""
               ],
               "subInstructions": []
             }
