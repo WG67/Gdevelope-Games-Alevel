@@ -26,7 +26,7 @@
     "minFPS": 20,
     "verticalSync": false,
     "platformSpecificAssets": {},
-    "loadingScreen": {
+    "lodingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
       "backgroundImageResourceName": "",
@@ -1146,42 +1146,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/KnightSword-3 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-2-0 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-2-0 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-3-0 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-3-0 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/KnightSword-4 copy.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/KnightSword-4 copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_1 copy.png",
         "kind": "image",
         "metadata": "",
@@ -1964,13 +1928,76 @@
         "userAdded": false
       },
       {
+        "file": "My Song 3.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "My Song 3.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "My Song 4.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "My Song 4.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knight Sword.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Knight Sword.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-2-0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-2-0 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-3-0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-3-0 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/KnightSword-4 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/KnightSword-4 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/KnightSword-1-0.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/KnightSword-1-0.png",
         "smoothed": true,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
@@ -1988,7 +2015,7 @@
         "metadata": "",
         "name": "assets/KnightSword-3-0.png",
         "smoothed": true,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
@@ -2007,8 +2034,6 @@
         "name": "assets/KnightSword-5-0.png",
         "smoothed": true,
         "userAdded": false
-<<<<<<< HEAD
-<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
@@ -2171,118 +2196,6 @@
         "name": "assets/a-5.png",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run-1-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run-1-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run-2-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run-2-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run-3-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run-3-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run-4-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run-4-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Idle_left-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Idle_left-1-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Idle_left-2-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Idle_left-2-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Idle_left-3-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Idle_left-3-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Idle_left-4-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Idle_left-4-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run_left-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run_left-1-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run_left-2-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run_left-2-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run_left-3-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run_left-3-0.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Run_left-4-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Run_left-4-0.png",
-        "smoothed": true,
-        "userAdded": true
-=======
->>>>>>> parent of e228b46 (Update)
-=======
->>>>>>> parent of e228b46 (Update)
       }
     ],
     "resourceFolders": []
@@ -2314,7 +2227,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6220000000000018,
+        "zoomFactor": 1.1780000000000022,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4837,23 +4750,14 @@
               "CooldownActive": false
             },
             {
+              "ignoreDefaultControls": false,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ignoreDefaultControls": false,
               "gravity": 1000,
               "jumpSpeed": 400,
-=======
->>>>>>> parent of e228b46 (Update)
-=======
->>>>>>> parent of e228b46 (Update)
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
-              "gravity": 2500,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 400,
@@ -4899,20 +4803,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -4947,20 +4851,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -4983,20 +4887,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -5019,20 +4923,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -5055,20 +4959,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -5087,15 +4991,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                      "image": "assets/Run-1-1.png",
-=======
-                      "image": "assets/Knight Male_Run_Right1.png",
->>>>>>> parent of e228b46 (Update)
-=======
-                      "image": "assets/Knight Male_Run_Right1.png",
->>>>>>> parent of e228b46 (Update)
+                      "image": "assets/Run-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5111,35 +5007,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                      "image": "assets/Run-2-1.png",
-=======
-                      "image": "assets/Knight Male_Run_Right2 .png",
->>>>>>> parent of e228b46 (Update)
-=======
-                      "image": "assets/Knight Male_Run_Right2 .png",
->>>>>>> parent of e228b46 (Update)
+                      "image": "assets/Run-2-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5155,35 +5043,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                      "image": "assets/Run-3-1.png",
-=======
-                      "image": "assets/Knight Male_Run_Right3 .png",
->>>>>>> parent of e228b46 (Update)
-=======
-                      "image": "assets/Knight Male_Run_Right3 .png",
->>>>>>> parent of e228b46 (Update)
+                      "image": "assets/Run-3-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5199,35 +5079,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                      "image": "assets/Run-4-1.png",
-=======
-                      "image": "assets/Knight Male_Run_Right4.png",
->>>>>>> parent of e228b46 (Update)
-=======
-                      "image": "assets/Knight Male_Run_Right4.png",
->>>>>>> parent of e228b46 (Update)
+                      "image": "assets/Run-4-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5243,20 +5115,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -5275,7 +5147,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/Run_left-1-0.png",
+                      "image": "assets/Knight Male_Run_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5291,27 +5163,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/Run_left-2-0.png",
+                      "image": "assets/Knight Male_Run_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5327,27 +5199,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/Run_left-3-0.png",
+                      "image": "assets/Knight Male_Run_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5363,27 +5235,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/Run_left-4-0.png",
+                      "image": "assets/Knight Male_Run_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5399,20 +5271,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
+                            "x": 0,
+                            "y": 28
                           }
                         ]
                       ]
@@ -5431,7 +5303,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets/Idle_left-1-0.png",
+                      "image": "assets/Knight Male_Idle_1 copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5447,136 +5319,316 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
+                            "x": 16,
+                            "y": 0
                           },
                           {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
+                            "x": 16,
+                            "y": 28
                           },
                           {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/Idle_left-2-0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
-                          },
-                          {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
-                          },
-                          {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
-                          },
-                          {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/Idle_left-3-0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
-                          },
-                          {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
-                          },
-                          {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
-                          },
-                          {
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/Idle_left-4-0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 18.001203536987305,
-                            "y": 8.1085205078125
-                          },
-                          {
-                            "x": 33.53183364868164,
-                            "y": 8.189212799072266
-                          },
-                          {
-                            "x": 33.37430191040039,
-                            "y": 27.739849090576172
-                          },
-                          {
-<<<<<<< HEAD
-                            "x": 18.369918823242188,
-                            "y": 28.091501235961914
-=======
                             "x": 0,
                             "y": 28
-<<<<<<< HEAD
->>>>>>> parent of e228b46 (Update)
-=======
->>>>>>> parent of e228b46 (Update)
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Knight Male_Idle_2 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Knight Male_Idle_3 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Knight Male_Idle_4 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 0,
+                            "y": 28
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Swordattack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Swordattack-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15.153186798095703,
+                            "y": 18.091205596923828
+                          },
+                          {
+                            "x": 33.720130920410156,
+                            "y": 19.592424392700195
+                          },
+                          {
+                            "x": 33.7102165222168,
+                            "y": 26.001972198486328
+                          },
+                          {
+                            "x": 3.424412250518799,
+                            "y": 26.079120635986328
+                          },
+                          {
+                            "x": 4.311516284942627,
+                            "y": 12.210333824157715
+                          },
+                          {
+                            "x": 14.5703706741333,
+                            "y": 11.39291000366211
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Swordattack-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15.153186798095703,
+                            "y": 18.091205596923828
+                          },
+                          {
+                            "x": 33.720130920410156,
+                            "y": 19.592424392700195
+                          },
+                          {
+                            "x": 33.7102165222168,
+                            "y": 26.001972198486328
+                          },
+                          {
+                            "x": 3.424412250518799,
+                            "y": 26.079120635986328
+                          },
+                          {
+                            "x": 4.311516284942627,
+                            "y": 12.210333824157715
+                          },
+                          {
+                            "x": 14.5703706741333,
+                            "y": 11.39291000366211
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Swordattack-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15.153186798095703,
+                            "y": 18.091205596923828
+                          },
+                          {
+                            "x": 33.720130920410156,
+                            "y": 19.592424392700195
+                          },
+                          {
+                            "x": 33.7102165222168,
+                            "y": 26.001972198486328
+                          },
+                          {
+                            "x": 3.424412250518799,
+                            "y": 26.079120635986328
+                          },
+                          {
+                            "x": 4.311516284942627,
+                            "y": 12.210333824157715
+                          },
+                          {
+                            "x": 14.5703706741333,
+                            "y": 11.39291000366211
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Swordattack-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15.153186798095703,
+                            "y": 18.091205596923828
+                          },
+                          {
+                            "x": 33.720130920410156,
+                            "y": 19.592424392700195
+                          },
+                          {
+                            "x": 33.7102165222168,
+                            "y": 26.001972198486328
+                          },
+                          {
+                            "x": 3.424412250518799,
+                            "y": 26.079120635986328
+                          },
+                          {
+                            "x": 4.311516284942627,
+                            "y": 12.210333824157715
+                          },
+                          {
+                            "x": 14.5703706741333,
+                            "y": 11.39291000366211
                           }
                         ]
                       ]
@@ -5681,6 +5733,103 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets/KnightSword-5-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "a",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/a-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/a-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/a-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/a-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/a-5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7132,7 +7281,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/NewObject-1-0.png",
                       "points": [],
                       "originPoint": {
@@ -7146,7 +7295,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14.741778373718262,
+                            "y": 4.792981147766113
+                          },
+                          {
+                            "x": 14.852315902709961,
+                            "y": 10.0767240524292
+                          },
+                          {
+                            "x": 10.256304740905762,
+                            "y": 14.9271879196167
+                          },
+                          {
+                            "x": 4.768560886383057,
+                            "y": 14.802984237670898
+                          },
+                          {
+                            "x": 0.9975677728652954,
+                            "y": 10.343035697937012
+                          },
+                          {
+                            "x": 1.1260559558868408,
+                            "y": 5.424249172210693
+                          },
+                          {
+                            "x": 5.240399360656738,
+                            "y": 1.048608422279358
+                          },
+                          {
+                            "x": 10.466934204101562,
+                            "y": 0.900256335735321
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -7524,6 +7708,18 @@
                 "2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "KnightSword",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7569,23 +7765,18 @@
                 "3"
               ],
               "subInstructions": []
-<<<<<<< HEAD
-<<<<<<< HEAD
             },
             {
               "type": {
                 "inverted": false,
-                "value": "FlipX"
+                "value": "ChangeAnimation"
               },
               "parameters": [
                 "KnightSword",
-                "yes"
+                "=",
+                "1"
               ],
               "subInstructions": []
-=======
->>>>>>> parent of e228b46 (Update)
-=======
->>>>>>> parent of e228b46 (Update)
             }
           ],
           "events": []
@@ -8282,7 +8473,7 @@
                 "",
                 "\"Timer\"",
                 ">=",
-                "20"
+                "10"
               ],
               "subInstructions": []
             },
@@ -8406,7 +8597,7 @@
                 "",
                 "\"Timer\"",
                 ">=",
-                "30"
+                "90"
               ],
               "subInstructions": []
             }
@@ -8479,6 +8670,53 @@
               "parameters": [
                 "",
                 "\"Quit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Music",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "My Song 4.wav",
+                "yes",
+                "50",
+                ""
               ],
               "subInstructions": []
             }
