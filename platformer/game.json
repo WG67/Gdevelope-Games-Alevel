@@ -2307,28 +2307,19 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Sword_right-1.png",
+        "file": "assets/Sword_right-2-0.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets/Sword_right-1.png",
+        "name": "assets/Sword_right-2-0.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Sword_right-3.png",
+        "file": "assets/Sword_right-5.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets/Sword_right-3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Sword_right-5-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/Sword_right-5-0.png",
+        "name": "assets/Sword_right-5.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2343,10 +2334,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Sword_right-2-0.png",
+        "file": "assets/Sword_right-3.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets/Sword_right-2-0.png",
+        "name": "assets/Sword_right-3.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -2361,10 +2352,64 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Sword_right-5.png",
+        "file": "assets/Sword_right-1.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets/Sword_right-5.png",
+        "name": "assets/Sword_right-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-1 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-1 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-2 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-2 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-3 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-3 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-4 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-4 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword_right-5-0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Sword_right-5-0 copy.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -5397,61 +5442,9 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08330000191926956,
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/Sword_right-5-0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
-                          },
-                          {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
-                          },
-                          {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
-                          },
-                          {
-                            "x": 0,
-                            "y": 27
-                          },
-                          {
-                            "x": 0,
-                            "y": 16.327590942382812
-                          },
-                          {
-                            "x": 0,
-                            "y": 9.610703468322754
-                          },
-                          {
-                            "x": 0,
-                            "y": 4.419926643371582
-                          },
-                          {
-                            "x": 13.89357852935791,
-                            "y": 9.073176383972168
-                          }
-                        ]
-                      ]
-                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "assets/Sword_right-2.png",
@@ -5659,6 +5652,155 @@
                           }
                         ]
                       ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Sword_right-5-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15.626022338867188,
+                            "y": 19.660524368286133
+                          },
+                          {
+                            "x": 32.08542251586914,
+                            "y": 20.146282196044922
+                          },
+                          {
+                            "x": 32.43452072143555,
+                            "y": 25.571395874023438
+                          },
+                          {
+                            "x": 0,
+                            "y": 27
+                          },
+                          {
+                            "x": 0,
+                            "y": 16.327590942382812
+                          },
+                          {
+                            "x": 0,
+                            "y": 9.610703468322754
+                          },
+                          {
+                            "x": 0,
+                            "y": 4.419926643371582
+                          },
+                          {
+                            "x": 13.89357852935791,
+                            "y": 9.073176383972168
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sword_left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Sword_right-1 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Sword_right-2 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Sword_right-3 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Sword_right-4 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Sword_right-5-0 copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -7638,17 +7780,6 @@
                 "2"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "KnightSword",
-                ""
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -7692,17 +7823,6 @@
                 "Player",
                 "=",
                 "3"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "KnightSword",
-                "yes"
               ],
               "subInstructions": []
             }
@@ -7936,12 +8056,36 @@
               },
               "parameters": [
                 "",
+                "a"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
                 "f"
               ],
               "subInstructions": []
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "6"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
@@ -7961,15 +8105,95 @@
               "subInstructions": []
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Idle\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "d"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "f"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "5"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "f"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Idle_left\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
