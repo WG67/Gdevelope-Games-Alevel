@@ -14,7 +14,7 @@
     "pixelsRounding": false,
     "projectUuid": "4cc106e5-ad3e-4ab9-885c-ee7568bd14f6",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Platformer",
@@ -5442,7 +5442,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
@@ -5463,16 +5463,16 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
+                            "x": 20.1152400970459,
+                            "y": 10.187396049499512
                           },
                           {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
+                            "x": 25.513912200927734,
+                            "y": 11.848526000976562
                           },
                           {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
+                            "x": 15.754776000976562,
+                            "y": 25.552845001220703
                           },
                           {
                             "x": 0,
@@ -5515,16 +5515,16 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
+                            "x": 20.1152400970459,
+                            "y": 10.187396049499512
                           },
                           {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
+                            "x": 25.513912200927734,
+                            "y": 11.848526000976562
                           },
                           {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
+                            "x": 15.754776000976562,
+                            "y": 25.552845001220703
                           },
                           {
                             "x": 0,
@@ -5567,16 +5567,16 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
+                            "x": 20.1152400970459,
+                            "y": 10.187396049499512
                           },
                           {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
+                            "x": 25.513912200927734,
+                            "y": 11.848526000976562
                           },
                           {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
+                            "x": 15.754776000976562,
+                            "y": 25.552845001220703
                           },
                           {
                             "x": 0,
@@ -5619,16 +5619,16 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
+                            "x": 20.1152400970459,
+                            "y": 10.187396049499512
                           },
                           {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
+                            "x": 25.513912200927734,
+                            "y": 11.848526000976562
                           },
                           {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
+                            "x": 15.754776000976562,
+                            "y": 25.552845001220703
                           },
                           {
                             "x": 0,
@@ -5671,16 +5671,16 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15.626022338867188,
-                            "y": 19.660524368286133
+                            "x": 20.1152400970459,
+                            "y": 10.187396049499512
                           },
                           {
-                            "x": 32.08542251586914,
-                            "y": 20.146282196044922
+                            "x": 25.513912200927734,
+                            "y": 11.848526000976562
                           },
                           {
-                            "x": 32.43452072143555,
-                            "y": 25.571395874023438
+                            "x": 15.754776000976562,
+                            "y": 25.552845001220703
                           },
                           {
                             "x": 0,
@@ -7780,6 +7780,17 @@
                 "2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                "no"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7822,7 +7833,18 @@
               "parameters": [
                 "Player",
                 "=",
-                "3"
+                "2\n"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                "yes"
               ],
               "subInstructions": []
             }
@@ -8040,26 +8062,7 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "a"
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,
@@ -8076,12 +8079,11 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ChangeAnimation"
+                "value": "SetAnimationName"
               },
               "parameters": [
                 "Player",
-                "=",
-                "6"
+                "\"Sword_right\""
               ],
               "subInstructions": []
             }
@@ -8096,11 +8098,21 @@
             {
               "type": {
                 "inverted": false,
-                "value": "KeyReleased"
+                "value": "AnimationName"
               },
               "parameters": [
-                "",
-                "f"
+                "Player",
+                "\"Sword_right\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "Player"
               ],
               "subInstructions": []
             }
@@ -8124,76 +8136,24 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "d"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "f"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "5"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyReleased"
-              },
-              "parameters": [
-                "",
-                "f"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Player",
-                "\"Idle_left\""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
