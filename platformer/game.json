@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Controls",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -18,21 +18,22 @@
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Platformer",
+    "description": "",
     "author": "",
     "windowWidth": 800,
     "windowHeight": 600,
-    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope/Exports",
+    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope-Games-Alevel/Exports/Platformer demo",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
     "platformSpecificAssets": {},
     "loadingScreen": {
       "backgroundColor": 0,
-      "backgroundFadeInDuration": 0.2,
-      "backgroundImageResourceName": "",
-      "gdevelopLogoStyle": "light",
-      "logoAndProgressFadeInDuration": 0.2,
-      "logoAndProgressLogoFadeInDelay": 0.2,
+      "backgroundFadeInDuration": 0,
+      "backgroundImageResourceName": "NewFile-1-1.png",
+      "gdevelopLogoStyle": "dark",
+      "logoAndProgressFadeInDuration": 0,
+      "logoAndProgressLogoFadeInDelay": 0,
       "minDuration": 1.5,
       "progressBarColor": 16777215,
       "progressBarHeight": 20,
@@ -43,6 +44,7 @@
       "showProgressBar": true
     },
     "authorIds": [],
+    "playableDevices": [],
     "extensionProperties": [],
     "platforms": [
       {
@@ -2502,11 +2504,41 @@
         "name": "NewObject3-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1.png",
+        "kind": "image",
+        "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"NewFile-1.png\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADMUlEQVR4Xu2az2sTQRTHZ5Pmt7FqsZCDIAGh0IMeKoKFgnjpRU/15smrf4B/qSchCB4CLa1p82uzm92VmfQtkyHjm4nKe5XZS5KdeTtvPvN2v2/fJPry8UMhbo+L67H4+mOofh0+6YnHu11o+u2nrx30v7gZi8FgEDkN8o86RZ/P3pcArsZT8W14roZ61tsXj7odp2F97aD/1WRKD+Ds7ZsSwDiOxfDntZp07+Gu6DabTgB87aD/JI7pAZwevy4BzJJEXI4natJ73XuiXa+r73meizTL1PdatSoqlcoaGJudSQ+uI/vfzOdikS7vBoBFmiqH5XG/1RKNWm0rAHAdCUACzfOCHsDJy6MyAmwTxQBg7UAL+smVh4P8IXh4cFACyAsj1KNVqNvOwySwdrOfXHk2AF69eF7IcJwuFsqnTqOh7nN52M5jT0bMDtrTZUZ/C3x6d1qMZnPx/fxSzevp/p540G6p77bzGADMDtpH0xk9AJkHjKYGgM4KgK++AxjMjl0ekGSZmMWrW6DdbIj67S3gq+8AALNjmweYoe2q75hdc2dnLY+Il0uVb8yThP4W0BMhbCKQGGHPABNcNYrW8oisKPgA0PMAc2Ku+o7ZyXY9kYLfLDJBPQ8wJ+Kq75gdSKr81CWWRSYo8wAspM12TOdt19P1n00iJPMAXwCYztuup+s/GwB6PcAVBKbztuvo+s8GgF4PcAWA6bztOrr+swGwSQb/1vu/TVal/rMGgMnfnyZIrABsygMwAFi77RZgXw8AxzH9x9ptAMCOXT0AHN5W333t2dUDYALb6ruvPbt6AExgW333tWdXD4AJbKvvvvZs6wGu8mbLE0x7sw4A+wnQj109wBWATQaxOgDsJ7AC4LIvYMqa6/6BtNu0oaLnA3diXwB7369Y9g/MOoDZj0U9oN/ve78Ou740ufQjjwAXJ//nPqR/TuAANgDgsAqUPoQIoKTPYewQARxWgdKHEAGU9DmMHSKAwypQ+hAigJI+h7FDBHBYBUofQgRQ0ucwdogADqtA6UOIAEr6HMYOEcBhFSh9CBFASZ/D2CECOKwCpQ8hAijpcxg7RACHVaD04Rcq5lluwE+YEQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (clone)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADLUlEQVR4Xu2ZS4sTQRDHO8nmbVx1cSEHQQLCwh70oAgKgnjZi57WmyevfgA/qScvgofALrtmd/KYzGRmpDvW0GnSVPdoM9XYc8mjuyrVv67Jv6a6wWq+vn76WEAIlzcR+/ZzKj6ePhqzh4cjo+hs7WD+5W3EGka/4HDSl/MPJYDraMG+Ty/Erz0ZH7MHo6HRL9vawfzr+aJ+AOfv3pYAojhm0183YtHj+4ds1OsZAbC1g/nzOK4fwNnrVyWAZZKwq2guFn00usMGnY54n+c5S7NMvG+3WqzZbO6A0dmp9MAPn3+7WrF1uvEDwDpNRcD8utvvs267XQkA+OEAONA8L+oH8ObF8zIDdAvFAGDjQAvm8Z2Hq/Y/wdOTkxJAXiip3timuu57WAQ2rs7jO08GwMtnTwuejov1WsQ07HbFfc4v3ffYPyNmB+PpJqv/Fvj8/qyYLVfsx8WVWNfj4yN2b9AX73XfYwAwOxifLZb1A+B1wGyhABhuAdjqO4DB7MjVAUmWsWW8vQUGvS7r/LkFbPUdAGB2ZOsANbVN9R2z6x0c7NQR8WYj6o1VktR/C8iFELYQKIyw/wAVXKvR2KkjsqKgA0CuA9SFmeo7ZsfH5UIKPpOoBOU6QF2Iqb5jdiCp/FWWWBKVIK8DsJRWxzGd1/mT9Z9MIcTrAFsAmM7r/Mn6TwaA3A8wBYHpvM6PrP9kAMj9AFMAmM7r/Mj6TwbAPhn8V8//Olnl+k8aACZ/f1sgkQKwrw7AAGDjuluAfD8AAsf0HxvXAQA7cv0ACLiqvtvak+sHwAKq6rutPbl+ACygqr7b2pPrB8ACquq7rT3ZfoCpvOnqBNVe7QPAeQLMI9cPMAWgk0GsDwDnCaQAmJwLqLJmen7A7fYdqMj1gBfnAtjzflNzfqD2AdR5JPoBk8nE+nHY9KHJZF7tGWASpMs5AYBLuj74Dhngwy65jDFkgEu6PvgOGeDDLrmMMWSAS7o++A4Z4MMuuYwxZIBLuj74Dhngwy65jDFkgEu6PvgOGeDDLrmMMWSAS7o++A4Z4MMuuYwxZIBLuj74Dhngwy65jDFkgEu6Pvj+7zPgNzQbBg62RNMpAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (clone) (clone)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAC/klEQVR4Xu2ZTWvbQBCGV3b8XTdtQwM+FIqhEMihPaQUGiiUXnJpT+mtp177A/pLe+ql0IMhIakTf8myJYVdd8R68TK7akETdnSxpN1ZNI9n9I5mIxH4EQXuv2AAHAGBE+AUCDwA+CXIKcApEDgBToHAA4BVgFOAUyBwApwCgQcAqwCnAKdA4AQ4BQIPAFYBTgFOgcAJcAoEHgCsApWnwPcvn3OIwsubifjxe6Quj58NxNP9vlOA+trB/MvbSfUR8O38UwHgejITP0cXyukXg0PxpN9zAuBrB/Ovp7PqAZx/eF8AmMSxGP25UU4PHu+LfrvtBMDXDuZP47h6AGenbwsA8yQRV5Opcvqg/0B0m011nmWZWKWpOm/U66JWq22BsdmZ9GAdOf92sRDL1fp+AFiuVuqB5fGw0xGtRqMUAFhHApBAsyyvHsC71ydFBNgcxQBg40AL5sl/Ho7KVeD46KgAkOVGqEebULfdByewcXOe/OfJAHjz6mUuw3G2XKpn6rVaKs/lYbuPvRkxOxhfrdPqU+Drx7N8PF+IXxdXyq/nhwfiUbejzm33MQCYHYyPZ/PqAcg6YDwzAPQ2AHz1HcBgduTqgCRNxTzepEC33RLNvyngq+8AALMjWweYoe2q75hde29vq46I12tVbyySpPoU0AshzBEojLB3gAmuHkVbdUSa53QA6HWA6ZirvmN2clwvpOCaRCWo1wGmI676jtmBpMpfXWJJVIKyDsBC2hzHdN62nq7/ZAohWQf4AsB03raerv9kAOj9AFcQmM7b1tH1nwwAvR/gCgDTeds6uv6TAbBLBv/X979NVqX+kwaAyd+/FkikAOyqAzAA2LgtBcj3A+DBMf3Hxm0AwI5cPwAeuKy++9qT6weAA2X13deeXD8AHCir77725PoB4EBZffe1J9sPcJU3W51g2pt9ANhPgHnk+gGuAGwyiPUBYD+BFACXfQFT1lz3D6Tdrg0VvR64F/sC2Pd+zbJ/YPYBzHkk+gHD4dD7c9j1o8ll3h3PhgYOdG7SZAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (clone) (clone) (clone)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAC/klEQVR4Xu2ZTWvbQBCGV3b8XTdtQwM+FIqhEMihPaQUGiiUXnJpT+mtp177A/pLe+ql0IMhIakTf8myJYVdd8R68TK7akETdnSxpN1ZNI9n9I5mIxH4EQXuv2AAHAGBE+AUCDwA+CXIKcApEDgBToHAA4BVgFOAUyBwApwCgQcAqwCnAKdA4AQ4BQIPAFYBTgFOgcAJcAoEHgCsApWnwPcvn3OIwsubifjxe6Quj58NxNP9vlOA+trB/MvbSfUR8O38UwHgejITP0cXyukXg0PxpN9zAuBrB/Ovp7PqAZx/eF8AmMSxGP25UU4PHu+LfrvtBMDXDuZP47h6AGenbwsA8yQRV5Opcvqg/0B0m011nmWZWKWpOm/U66JWq22BsdmZ9GAdOf92sRDL1fp+AFiuVuqB5fGw0xGtRqMUAFhHApBAsyyvHsC71ydFBNgcxQBg40AL5sl/Ho7KVeD46KgAkOVGqEebULfdByewcXOe/OfJAHjz6mUuw3G2XKpn6rVaKs/lYbuPvRkxOxhfrdPqU+Drx7N8PF+IXxdXyq/nhwfiUbejzm33MQCYHYyPZ/PqAcg6YDwzAPQ2AHz1HcBgduTqgCRNxTzepEC33RLNvyngq+8AALMjWweYoe2q75hde29vq46I12tVbyySpPoU0AshzBEojLB3gAmuHkVbdUSa53QA6HWA6ZirvmN2clwvpOCaRCWo1wGmI676jtmBpMpfXWJJVIKyDsBC2hzHdN62nq7/ZAohWQf4AsB03raerv9kAOj9AFcQmM7b1tH1nwwAvR/gCgDTeds6uv6TAbBLBv/X979NVqX+kwaAyd+/FkikAOyqAzAA2LgtBcj3A+DBMf3Hxm0AwI5cPwAeuKy++9qT6weAA2X13deeXD8AHCir77725PoB4EBZffe1J9sPcJU3W51g2pt9ANhPgHnk+gGuAGwyiPUBYD+BFACXfQFT1lz3D6Tdrg0VvR64F/sC2Pd+zbJ/YPYBzHkk+gHD4dD7c9j1o8ll3h3PhgYOdG7SZAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (clone) (clone) (clone) (clone)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADBUlEQVR4Xu2ZTWvbQBCGV3b8XTdtQwM+FIqhEMihPaQUGgiUXnJpT+mtp177A/pLeyqYQg+GhKROZNmyZEll1x2xXrzMrlrQhF1dLGl3Fs3jGb2j2YA5fgSO+888AB8BjhPwKeB4APiXoE8BnwKOE/Ap4HgAeBXwKeBTwHECPgUcDwCvAj4FfAo4TsCngOMB4FXAp4BPAccJ+BRwPAC8CgTfPn8qIAqubkP2/ddUXB4/G7Gn+0OjALG1g/lXdyGbTCa1pmHw9eJjCeAmjNiP6aVw+sXokD0ZDowA2NrB/Jt5VD+Ai/fvSgBhHLPp71vh9OjxPht2u0YAbO1g/jyO6wdwfvq2BLBIEnYdzoXTB8MHrN9ui/M8z1maZeK81WyyRqOxBUZnp9KDdfj8u+WSrdL1/QCwSlPxwPx42OuxTqtVCQCswwFwoHle1A/g7PVJGQE6RzEA2DjQgnn8n4ej9pfg8dFRCSAvlFAPNqGuuw9OYOPqPP7PkwHw5tXLgodjtFqJZxp0OiLP+aG7j70ZMTsYT9dZ/Snw5cN5MVss2c/La+HX88MD9qjfE+e6+xgAzA7GZ9GifgC8DphFCoDBBoCtvgMYzI5cHZBkGVvEmxTodzus/TcFbPUdAGB2ZOsANbRN9R2z6+7tbdUR8Xot6o1lktSfAnIhhDkChRH2DlDBNYNgq47IioIOALkOUB0z1XfMjo/LhRRck6gE5TpAdcRU3zE7kFT+K0ssiUqQ1wFYSKvjmM7r1pP1n0whxOsAWwCYzuvWk/WfDAC5H2AKAtN53Tqy/pMBIPcDTAFgOq9bR9Z/MgB2yeD/+v7XySrXf9IAMPn71wKJFIBddQAGABvXpQD5fgA8OKb/2LgOANiR6wfAA1fVd1t7cv0AcKCqvtvak+sHgANV9d3Wnlw/AByoqu+29mT7AabypqsTVHu1DwD7CTCPXD/AFIBOBrE+AOwnkAJgsi+gyprp/gG327WhItcD92JfAPveb2j2D9Q+gDqPRD9gPB5bfw6bfjSZzKs7Av4AvVhZbiT96H4AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"/Users/thomasburns/Gdevelope-Games-Alevel/platformer/NewFile-1-1.png\"],\"name\":\"NewFile-1\",\"singleFrame\":true}}",
+        "name": "NewFile-1-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "height": 32,
+      "name": "Wall",
+      "tags": "",
+      "texture": "Wall Right.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsGroups": [],
   "variables": [],
   "layouts": [
@@ -2524,7 +2556,7 @@
       "title": "",
       "v": 84,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 16,
         "gridHeight": 16,
@@ -2532,8 +2564,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 1.1100000000000056,
+        "snap": false,
+        "zoomFactor": 0.7604000000000029,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2751,8 +2783,8 @@
           "name": "Player",
           "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
           "width": 0,
-          "x": 64,
-          "y": 20,
+          "x": 51,
+          "y": 22,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -6661,17 +6693,6 @@
           "behaviors": []
         },
         {
-          "height": 32,
-          "name": "Wall",
-          "tags": "",
-          "texture": "Wall Right.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
           "height": 16,
           "name": "TiledGoo",
           "tags": "",
@@ -7938,10 +7959,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -9317,7 +9338,7 @@
           "creationTime": 0,
           "disabled": false,
           "folded": false,
-          "name": "edge",
+          "name": "Finish Demo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [],
@@ -9327,8 +9348,47 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Thanks\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
@@ -9404,6 +9464,588 @@
           "type": "Sticker::Sticker"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Controls",
+      "name": "Controls",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5791999999999999,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 81,
+          "layer": "",
+          "locked": false,
+          "name": "Ask",
+          "persistentUuid": "37fdbf66-c10a-46b2-8b75-dd1db2d5f918",
+          "width": 527,
+          "x": 136,
+          "y": 1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 608,
+          "layer": "Layer",
+          "locked": false,
+          "name": "Wall",
+          "persistentUuid": "b53325db-2abd-4074-a3b6-20435248b578",
+          "width": 800,
+          "x": 0,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 281,
+          "layer": "",
+          "locked": false,
+          "name": "Controls",
+          "persistentUuid": "a05d09ef-96a6-457c-9fbc-b6f1a0a95fcd",
+          "width": 737,
+          "x": 37,
+          "y": 132,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Start",
+          "persistentUuid": "97ac0fcd-d472-4787-9afb-c0b0d3f39ca8",
+          "width": 0,
+          "x": 90,
+          "y": 496,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Controls2",
+          "persistentUuid": "9503dc4d-17f2-46bc-a85f-3d13c132cedd",
+          "width": 0,
+          "x": 286,
+          "y": 75,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Time",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Do you Want to Quit?",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Controls2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Controls:\n",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 55,
+          "color": {
+            "b": 31,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Controls",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Space Bar - Jump\nA and D - left and right\nF - Attack\nE - interact with doors\nS - go down on cracked floors after 10 secs\nESC - Exit",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 55,
+          "color": {
+            "b": 31,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Start",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Press E to start",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Ask",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "A Kights Tale",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"New scene\"",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 67108864,
+          "ambientLightColorG": 6032160,
+          "ambientLightColorR": 8014336,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1,
+          "ambientLightColorG": 134217728,
+          "ambientLightColorR": 1597066561,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Thanks",
+      "name": "Thanks",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5791999999999999,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 180,
+          "layer": "",
+          "locked": false,
+          "name": "Ask",
+          "persistentUuid": "37fdbf66-c10a-46b2-8b75-dd1db2d5f918",
+          "width": 766,
+          "x": 9,
+          "y": -5,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Time",
+          "persistentUuid": "6fdb8054-2006-48df-974c-2bbfd6dff462",
+          "width": 0,
+          "x": 714,
+          "y": 536,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Time",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Do you Want to Quit?",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Ask",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Thank you for playing!\n\nThis is a prototype of \"A Knights Tale\"\nPlease provide feedback in the coments\nThe game will quit in 10 seconds",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "characterSize": 85,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Time",
+                "=",
+                "\"0\" + ToString(TimerElapsedTime(\"Time_Quit\"))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\"",
+                ">=",
+                "10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time_Quit\"",
+                ">=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"New scene\"",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 1,
+          "ambientLightColorG": 134217728,
+          "ambientLightColorR": 1597066561,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     },
     {
       "b": 209,
@@ -9684,6 +10326,7 @@
   "eventsFunctionsExtensions": [
     {
       "author": "@Bouh",
+      "category": "",
       "description": "Expressions to transform time in seconds to format like HH:MM:SS. Ideal to display timers on screen.",
       "extensionNamespace": "",
       "fullName": "Time formatting",
@@ -9748,6 +10391,7 @@
     },
     {
       "author": "Tristan Rhodes (https://victrisgames.itch.io/)",
+      "category": "",
       "description": "Set the angle of the object to match the direction of movement. You can customize the speed of the rotation.\n\nThis works with any kind of movement (forces, physics...) as it uses the object center position to compute the rotation of the object.",
       "extensionNamespace": "",
       "fullName": "Face Forward",
@@ -10217,6 +10861,7 @@
     },
     {
       "author": "@4ian",
+      "category": "",
       "description": "Add actions and conditions to manage the life of the object. Object can get damages, lose some health and you can check with a condition if it's dead.",
       "extensionNamespace": "",
       "fullName": "Health (life points and damages for objects)",
@@ -10923,6 +11568,7 @@
     },
     {
       "author": "VegeTato, arthuro555",
+      "category": "",
       "description": "Convenience conditions, actions and behaviors for timers to trigger a condition every X seconds.",
       "extensionNamespace": "",
       "fullName": "Repeat every X seconds",
@@ -11626,6 +12272,7 @@
     },
     {
       "author": "@4ian",
+      "category": "",
       "description": "Allow the object to fire bullets, with customizable speed, angle and fire rate.",
       "extensionNamespace": "",
       "fullName": "Fire bullets",
@@ -12392,6 +13039,7 @@
     },
     {
       "author": "@4ian",
+      "category": "",
       "description": "Force the object to stay visible on the screen by setting back its position inside the viewport of the camera.",
       "extensionNamespace": "",
       "fullName": "Stay On Screen",
@@ -12538,6 +13186,7 @@
     },
     {
       "author": "D8H",
+      "category": "",
       "description": "This extension can be useful for:\n* Stick an accessory to a moving object,\n* Animate a skeleton.",
       "extensionNamespace": "",
       "fullName": "Stick objects to others",
