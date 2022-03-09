@@ -2522,6 +2522,15 @@
         "name": "NewFile-1-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Ladder-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ladder-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2556,7 +2565,7 @@
       "title": "",
       "v": 84,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 16,
         "gridHeight": 16,
@@ -2564,8 +2573,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.7604000000000029,
+        "snap": true,
+        "zoomFactor": 1.8556000000000061,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2783,8 +2792,8 @@
           "name": "Player",
           "persistentUuid": "fd6f6a41-b91b-4c47-a47c-7929de55304e",
           "width": 0,
-          "x": 51,
-          "y": 22,
+          "x": 688,
+          "y": 528,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -3647,8 +3656,8 @@
           "name": "Door",
           "persistentUuid": "a65efbfb-9489-4975-95e1-d3a3e7e48270",
           "width": 0,
-          "x": 753,
-          "y": 537,
+          "x": 16,
+          "y": 16,
           "zOrder": 157,
           "numberProperties": [],
           "stringProperties": [],
@@ -3663,8 +3672,8 @@
           "name": "NewObject2",
           "persistentUuid": "73080030-fddd-488a-91b1-c70499463c37",
           "width": 0,
-          "x": 238,
-          "y": -5,
+          "x": 226,
+          "y": -2,
           "zOrder": 174,
           "numberProperties": [],
           "stringProperties": [],
@@ -3679,8 +3688,8 @@
           "name": "NewObject",
           "persistentUuid": "60f7fb0d-2219-4461-beb9-5f6d1449cf6e",
           "width": 103,
-          "x": 669,
-          "y": -22,
+          "x": 656,
+          "y": -23,
           "zOrder": 172,
           "numberProperties": [],
           "stringProperties": [],
@@ -3730,6 +3739,214 @@
           "x": 0,
           "y": 0,
           "zOrder": 175,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "3f9de078-57c7-4bfe-a4b2-95c9ca613df3",
+          "width": 0,
+          "x": 0,
+          "y": 48,
+          "zOrder": 176,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "bf1c606f-1e2a-44c4-9a56-7b3220f52b90",
+          "width": 0,
+          "x": 304,
+          "y": 512,
+          "zOrder": 177,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "e6dcfb44-4d96-4ff5-9ae1-6ba3f11e51ee",
+          "width": 0,
+          "x": 416,
+          "y": 448,
+          "zOrder": 178,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "7b96223d-7582-494b-8a3c-760ff0f0d8f7",
+          "width": 48,
+          "x": 752,
+          "y": 432,
+          "zOrder": 179,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Necromancer_left",
+          "persistentUuid": "5be96a76-ec87-45e4-80d8-33081352e46b",
+          "width": 0,
+          "x": 736,
+          "y": 396,
+          "zOrder": 180,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "965a3ab9-7409-4ddf-ad3c-d07be8537bb4",
+          "width": 64,
+          "x": 736,
+          "y": 432,
+          "zOrder": 179,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "c9e5cb32-8b7f-46b8-9f19-280cc33cc798",
+          "width": 48,
+          "x": 656,
+          "y": 448,
+          "zOrder": 179,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "4877cd2d-32e0-4ea6-ad20-71bae156aaa3",
+          "width": 48,
+          "x": 560,
+          "y": 416,
+          "zOrder": 179,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Chest_checkpoint",
+          "persistentUuid": "4751234a-2746-4c4b-8a15-f6454d46177c",
+          "width": 0,
+          "x": 640,
+          "y": 544,
+          "zOrder": 181,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "426e0bc4-3fb3-4a66-971c-ba80c91f3f6f",
+          "width": 0,
+          "x": 592,
+          "y": 336,
+          "zOrder": 182,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "c3530244-ba03-4ec0-8d82-9f47a115434e",
+          "width": 32,
+          "x": 720,
+          "y": 352,
+          "zOrder": 184,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Tiled_Floor",
+          "persistentUuid": "70aa0df1-ed4d-4875-ac42-32cddca6e6fd",
+          "width": 32,
+          "x": 768,
+          "y": 352,
+          "zOrder": 185,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 80,
+          "layer": "Background",
+          "locked": false,
+          "name": "Ladder",
+          "persistentUuid": "bea72d72-769f-49c2-86f1-e17ea19d2acd",
+          "width": 16,
+          "x": 752,
+          "y": 352,
+          "zOrder": 188,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6957,6 +7174,84 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "Tiled_Floor",
+          "tags": "",
+          "texture": "assets/Clean-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 16,
+          "name": "Ladder",
+          "tags": "",
+          "texture": "Ladder-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Ladder",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "name": "LadderSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ladder-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -7648,21 +7943,7 @@
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "AddForceVers"
-              },
-              "parameters": [
-                "Necromancer",
-                "Player",
-                "10\n",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
@@ -7696,21 +7977,7 @@
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "AddForceVers"
-              },
-              "parameters": [
-                "Necromancer_left",
-                "Player",
-                "10\n",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
@@ -8349,6 +8616,95 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Ladder",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnLadder"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IgnoreDefaultControls"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateLadderKey"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::LadderClimbingSpeed"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject",
+                "=",
+                "10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
@@ -15267,6 +15623,64 @@
               "parameters": [
                 "",
                 "\"Level 2\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": false,
+          "name": "Ladder",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnLadder"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "Player",
+                "90",
+                "40",
                 ""
               ],
               "subInstructions": []
