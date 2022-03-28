@@ -44,7 +44,9 @@
       "showProgressBar": true
     },
     "authorIds": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "keyboard"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -2574,7 +2576,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.8556000000000061,
+        "zoomFactor": 1.0342000000000078,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3927,8 +3929,8 @@
           "locked": false,
           "name": "Tiled_Floor",
           "persistentUuid": "70aa0df1-ed4d-4875-ac42-32cddca6e6fd",
-          "width": 32,
-          "x": 768,
+          "width": 16,
+          "x": 784,
           "y": 352,
           "zOrder": 185,
           "numberProperties": [],
@@ -3943,7 +3945,7 @@
           "locked": false,
           "name": "Ladder",
           "persistentUuid": "bea72d72-769f-49c2-86f1-e17ea19d2acd",
-          "width": 16,
+          "width": 32,
           "x": 752,
           "y": 352,
           "zOrder": 188,
@@ -4321,6 +4323,7 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": true,
               "acceleration": 1500,
               "canGoDownFromJumpthru": false,
               "ignoreDefaultControls": true,
@@ -4333,7 +4336,6 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 400,
               "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             },
@@ -7186,10 +7188,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -7205,10 +7207,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "Ladder",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Ladder",
               "yGrabOffset": 0
             }
           ]
@@ -8639,39 +8641,19 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlatformBehavior::IsOnLadder"
+                "value": "CollisionNP"
               },
               "parameters": [
                 "Player",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
+                "Ladder",
                 "",
-                "e"
+                "",
+                ""
               ],
               "subInstructions": []
             }
           ],
           "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::IgnoreDefaultControls"
-              },
-              "parameters": [
-                "Player",
-                "PlatformerObject",
-                "yes"
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,
@@ -8682,22 +8664,74 @@
                 "PlatformerObject"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::LadderClimbingSpeed"
-              },
-              "parameters": [
-                "Player",
-                "PlatformerObject",
-                "=",
-                "10"
-              ],
-              "subInstructions": []
             }
           ],
-          "events": []
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "w"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::SimulateUpKey"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "s"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TopDownMovementBehavior::SimulateDownKey"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         },
         {
           "disabled": false,
@@ -15687,6 +15721,21 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "",
+          "comment2": ""
         }
       ],
       "layers": [
