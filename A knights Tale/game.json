@@ -409,6 +409,8 @@
               "impassable": true
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 200,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -421,9 +423,7 @@
               "ladderClimbingSpeed": 0,
               "maxFallingSpeed": 0,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 0,
               "yGrabOffset": 0
@@ -506,6 +506,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -516,12 +518,12 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": true,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             },
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 0,
               "canGoDownFromJumpthru": false,
               "canGrabPlatforms": false,
@@ -534,9 +536,7 @@
               "ladderClimbingSpeed": 0,
               "maxFallingSpeed": 0,
               "maxSpeed": 0,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 0,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 1,
               "yGrabOffset": 0
@@ -806,6 +806,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -816,10 +818,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": true,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -865,16 +865,16 @@
           "effects": [],
           "behaviors": [
             {
-              "cost": 2,
-              "impassable": true,
               "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+              "cost": 2,
+              "impassable": true
             },
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -931,7 +931,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite9",
                       "points": [],
                       "originPoint": {
@@ -945,7 +945,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1440,23 +1459,23 @@
               "parameters": [
                 "",
                 "32",
-                "100",
-                "100",
+                "80",
+                "80",
                 "Terrain",
                 "Room",
                 "Hallway",
-                "15",
+                "8",
                 "\"\"",
                 "10",
-                "20",
+                "12",
                 "10",
-                "20",
+                "12",
                 "Pathfinding",
                 "Pathfinding",
-                "10000",
-                "yes",
+                "2000",
+                "no",
                 "2",
-                "3",
+                "1",
                 "True",
                 "Wall",
                 ""
@@ -1478,7 +1497,7 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Repeat",
-              "repeatExpression": "30",
+              "repeatExpression": "5",
               "conditions": [
                 {
                   "type": {
@@ -1510,91 +1529,25 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "SceneInstancesCount"
+                    "value": "AjoutHasard"
                   },
                   "parameters": [
                     "",
-                    "Enemy",
-                    "<",
-                    "2"
+                    "Room"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Scene"
+                    "value": "Create"
                   },
                   "parameters": [
                     "",
-                    "\"Untitled scene\"",
-                    ""
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AjoutHasard"
-                      },
-                      "parameters": [
-                        "",
-                        "Room"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "Door",
-                        "Room.X()",
-                        "Room.Y()",
-                        "\"\""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Player",
-                            "Door",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Untitled scene\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": []
-                    }
+                    "Door",
+                    "Room.X()",
+                    "Room.Y()",
+                    "\"1\""
                   ]
                 }
               ]
@@ -1616,13 +1569,37 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Variable",
+          "comment": "Door",
           "comment2": ""
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Untitled scene\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
