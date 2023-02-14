@@ -201,8 +201,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "Main",
+      "name": "Main",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -1459,12 +1459,12 @@
               "parameters": [
                 "",
                 "32",
-                "80",
-                "80",
+                "40",
+                "40",
                 "Terrain",
                 "Room",
                 "Hallway",
-                "8",
+                "4",
                 "\"\"",
                 "10",
                 "12",
@@ -1476,7 +1476,7 @@
                 "no",
                 "2",
                 "1",
-                "True",
+                "False",
                 "Wall",
                 ""
               ]
@@ -1516,7 +1516,7 @@
                   },
                   "parameters": [
                     "",
-                    "Enemy",
+                    "Spawner",
                     "Room.X()",
                     "Room.Y()",
                     "\"\""
@@ -1603,6 +1603,17 @@
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 11,
+          "ambientLightColorG": 6063568,
+          "ambientLightColorR": 11042168,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer2",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 1869181810,
           "ambientLightColorG": 1700160615,
