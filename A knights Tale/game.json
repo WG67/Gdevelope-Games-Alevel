@@ -1004,11 +1004,12 @@
           "actions": [
             {
               "type": {
-                "value": "PushScene"
+                "value": "Scene"
               },
               "parameters": [
                 "",
-                "\"Untitled scene\""
+                "\"Main\"",
+                ""
               ]
             }
           ]
@@ -1595,7 +1596,7 @@
               },
               "parameters": [
                 "",
-                "\"Untitled scene\"",
+                "\"Main\"",
                 ""
               ]
             }
