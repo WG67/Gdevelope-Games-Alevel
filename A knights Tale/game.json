@@ -238,6 +238,253 @@
         "name": "NewSprite10",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wizard Male_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6fb7767e4762ac39050169cf3894a122e2540cc4a51a27386d2b5722156f4630_Wizard Male_Idle_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/6fb7767e4762ac39050169cf3894a122e2540cc4a51a27386d2b5722156f4630_Wizard Male_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_hit_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_hit_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/floor_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/floor_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/hole.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/hole.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_corner_front_right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_corner_front_right.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/doors_leaf_closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/doors_leaf_closed.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/flask_big_red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/flask_big_red.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -355,62 +602,20 @@
               "IsJustDodged": false,
               "ShieldDamageTaken": 0,
               "HealToBeApplied": 0
-            },
-            {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 200,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": false,
-              "deceleration": 400,
-              "gravity": 0,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 0,
-              "jumpSustainTime": 0,
-              "ladderClimbingSpeed": 0,
-              "maxFallingSpeed": 0,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 0,
-              "yGrabOffset": 0
-            },
-            {
-              "name": "TopDownMovement",
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "acceleration": 400,
-              "allowDiagonals": true,
-              "angleOffset": 0,
-              "angularMaxSpeed": 180,
-              "customIsometryAngle": 30,
-              "deceleration": 800,
-              "ignoreDefaultControls": false,
-              "maxSpeed": 200,
-              "movementAngleOffset": 0,
-              "rotateObject": true,
-              "viewpoint": "TopDown"
             }
           ],
           "animations": [
             {
-              "name": "Player",
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -423,26 +628,167 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 16
-                          },
-                          {
-                            "x": 0,
-                            "y": 16
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hit",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_hit_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -452,7 +798,7 @@
         },
         {
           "assetStoreId": "",
-          "name": "Enemy",
+          "name": "Oger",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -460,8 +806,130 @@
           "effects": [],
           "behaviors": [
             {
+              "allowDiagonals": false,
+              "maxSpeed": 50,
               "name": "Pathfinding",
+              "rotateObject": false,
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 400,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "smoothingMaxCellGap": 1
+            },
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "customIsometryAngle": 30,
+              "deceleration": 800,
+              "ignoreDefaultControls": false,
+              "maxSpeed": 200,
+              "movementAngleOffset": 0,
+              "name": "TopDownMovement",
+              "rotateObject": true,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "viewpoint": "TopDown"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Skeleton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -472,43 +940,184 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "rotateObject": true,
-              "smoothingMaxCellGap": 1
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 0,
-              "canGoDownFromJumpthru": false,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": false,
-              "deceleration": 0,
-              "gravity": 0,
-              "ignoreDefaultControls": true,
-              "jumpSpeed": 0,
-              "jumpSustainTime": 0,
-              "ladderClimbingSpeed": 0,
-              "maxFallingSpeed": 0,
-              "maxSpeed": 0,
-              "slopeMaxAngle": 0,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 1,
-              "yGrabOffset": 0
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
             }
           ],
           "animations": [
             {
-              "name": "Enemy",
+              "name": "Run",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Enemy",
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_run_anim_f3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Zombie",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 300,
+              "name": "Pathfinding",
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0909,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_run_anim_f3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -541,27 +1150,26 @@
             {
               "name": "ObjectSpawner",
               "type": "ObjectSpawner::ObjectSpawner",
-              "SpawnPeriod": 2,
+              "SpawnPeriod": 5,
               "OffsetX": 0,
               "OffsetY": 0,
               "JustSpawnedAnObject": false,
               "MaxQuantityReached": false,
-              "MaxQuantity": 5
+              "MaxQuantity": 3
             }
           ],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Hole",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite2",
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/hole.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -677,17 +1285,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Floor",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/floor_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -700,26 +1307,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -738,17 +1326,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Floor",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite6",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/floor_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -761,26 +1348,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -872,17 +1440,16 @@
           ],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Wall",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite8",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_corner_front_right.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -895,26 +1462,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -933,17 +1481,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Door",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite9",
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/doors_leaf_closed.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -956,26 +1503,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -1032,17 +1560,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "Bottle",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite10",
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/flask_big_red.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1178,6 +1705,24 @@
                 "0",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Run\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                ""
+              ]
             }
           ]
         },
@@ -1258,6 +1803,24 @@
                 "-200",
                 "0",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Run\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                "yes"
               ]
             }
           ]
@@ -1378,6 +1941,68 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "FIre bullet",
+          "comment2": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -1393,15 +2018,35 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Oger",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
-                "value": "AddForceVers"
+                "value": "Health::Health::Hit"
               },
               "parameters": [
-                "Enemy",
                 "Player",
-                "60",
+                "Health",
+                "0.1",
+                "no",
+                "no",
                 ""
               ]
             }
@@ -1415,7 +2060,39 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Enemy",
+                "Skeleton",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "0.1",
+                "no",
+                "no",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Zombie",
                 "Player",
                 "",
                 "",
@@ -1448,7 +2125,7 @@
               },
               "parameters": [
                 "Bullet",
-                "Enemy",
+                "Oger",
                 "",
                 "",
                 ""
@@ -1461,7 +2138,7 @@
                 "value": "Delete"
               },
               "parameters": [
-                "Enemy",
+                "Oger",
                 ""
               ]
             },
@@ -1472,8 +2149,88 @@
               "parameters": [
                 "",
                 "Heal",
-                "Enemy.X()",
-                "Enemy.Y()",
+                "Oger.X()",
+                "Oger.Y()",
+                "\"1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Bullet",
+                "Skeleton",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Skeleton",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Heal",
+                "Oger.X()",
+                "Oger.Y()",
+                "\"1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Bullet",
+                "Zombie",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Zombie",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Heal",
+                "Oger.X()",
+                "Oger.Y()",
                 "\"1\""
               ]
             }
@@ -1497,14 +2254,72 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "Oger",
+                "20",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "Skeleton",
+                "20",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "Zombie",
+                "20",
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
                 "value": "PathfindingBehavior::SetDestination"
               },
               "parameters": [
-                "Enemy",
+                "Oger",
+                "Pathfinding",
+                "",
+                "Player.CenterX()",
+                "Player.CenterY()"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Skeleton",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "Zombie",
                 "Pathfinding",
                 "",
                 "Player.X()",
@@ -1512,6 +2327,16 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -1618,7 +2443,17 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "AjoutHasard"
+              },
+              "parameters": [
+                "",
+                "Spawner"
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -1627,7 +2462,29 @@
               "parameters": [
                 "Spawner",
                 "ObjectSpawner",
-                "Enemy",
+                "Oger",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+              },
+              "parameters": [
+                "Spawner",
+                "ObjectSpawner",
+                "Skeleton",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+              },
+              "parameters": [
+                "Spawner",
+                "ObjectSpawner",
+                "Zombie",
                 ""
               ]
             }
@@ -1670,25 +2527,25 @@
               },
               "parameters": [
                 "",
-                "32",
-                "40",
-                "40",
+                "16",
+                "80",
+                "80",
                 "Terrain",
                 "Room",
                 "Hallway",
                 "8",
                 "\"\"",
-                "10",
                 "12",
-                "10",
+                "12",
+                "12",
                 "12",
                 "Pathfinding",
                 "Pathfinding",
-                "2000",
-                "no",
+                "10000",
+                "yes",
                 "2",
                 "1",
-                "False",
+                "True",
                 "Wall",
                 ""
               ]
@@ -1729,9 +2586,9 @@
                   "parameters": [
                     "",
                     "Spawner",
-                    "Room.CenterX()",
+                    "Room.X()",
                     "Room.Y()",
-                    "\"\""
+                    "\"1\""
                   ]
                 }
               ]
@@ -1750,6 +2607,14 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "30"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -1797,6 +2662,15 @@
                 "",
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
               ]
             }
           ],
@@ -1891,10 +2765,6 @@
           "type": "PlatformBehavior::PlatformBehavior"
         },
         {
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior"
-        },
-        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
@@ -1903,6 +2773,3176 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "Bouh",
+      "category": "Input",
+      "extensionNamespace": "",
+      "fullName": "Gamepads (controllers)",
+      "helpPath": "/all-features/gamepad",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWdhbWVwYWQtdmFyaWFudC1vdXRsaW5lIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYsOUg4VjExSDEwVjEzSDhWMTVINlYxM0g0VjExSDZWOU0xOC41LDlBMS41LDEuNSAwIDAsMSAyMCwxMC41QTEuNSwxLjUgMCAwLDEgMTguNSwxMkExLjUsMS41IDAgMCwxIDE3LDEwLjVBMS41LDEuNSAwIDAsMSAxOC41LDlNMTUuNSwxMkExLjUsMS41IDAgMCwxIDE3LDEzLjVBMS41LDEuNSAwIDAsMSAxNS41LDE1QTEuNSwxLjUgMCAwLDEgMTQsMTMuNUExLjUsMS41IDAgMCwxIDE1LjUsMTJNMTcsNUE3LDcgMCAwLDEgMjQsMTJBNyw3IDAgMCwxIDE3LDE5QzE1LjA0LDE5IDEzLjI3LDE4LjIgMTIsMTYuOUMxMC43MywxOC4yIDguOTYsMTkgNywxOUE3LDcgMCAwLDEgMCwxMkE3LDcgMCAwLDEgNyw1SDE3TTcsN0E1LDUgMCAwLDAgMiwxMkE1LDUgMCAwLDAgNywxN0M4LjY0LDE3IDEwLjA5LDE2LjIxIDExLDE1SDEzQzEzLjkxLDE2LjIxIDE1LjM2LDE3IDE3LDE3QTUsNSAwIDAsMCAyMiwxMkE1LDUgMCAwLDAgMTcsN0g3WiIgLz48L3N2Zz4=",
+      "name": "Gamepads",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/gamepad-variant-outline.svg",
+      "shortDescription": "Add support for gamepads (or other controllers) to your game, giving access to information such as button presses, axis positions, trigger pressure, etc...",
+      "version": "0.4.1",
+      "description": [
+        "Add support for gamepads (or other controllers) to your game, giving access to information such as button presses, axis positions, axis force, trigger pressure, deadzone for each gamepad, etc...",
+        "",
+        "Up to 4 gamepads can be connected. For each condition or expression, you'll have to enter the index of the gamepad to read. This is 1, 2, 3 or 4."
+      ],
+      "origin": {
+        "identifier": "Gamepads",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "controllers",
+        "gamepads",
+        "joysticks",
+        "axis",
+        "xbox",
+        "ps4"
+      ],
+      "authorIds": [
+        "2OwwM8ToR9dx9RJ2sAKTcrLmCB92"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [
+        {
+          "description": "Get the value of the pressure on a gamepad trigger.",
+          "fullName": "Pressure on a gamepad trigger",
+          "functionType": "Expression",
+          "name": "TriggerPressure",
+          "sentence": "Player _PARAM1_ push axis _PARAM2_ to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const trigger = eventsFunctionContext.getArgument(\"trigger\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in expression: \"Pressure on a gamepad trigger\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "if (trigger != \"LT\" && trigger != \"RT\" && trigger != \"L2\" && trigger != \"R2\") {\r",
+                "    console.error('Parameter trigger is not valid in expression: \"Pressure on a gamepad trigger\"');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "switch (trigger) {\r",
+                "    case 'LT':\r",
+                "    case 'L2':\r",
+                "        eventsFunctionContext.returnValue = gamepad.buttons[6].value;\r",
+                "        break;\r",
+                "\r",
+                "    case 'RT':\r",
+                "    case 'R2':\r",
+                "        eventsFunctionContext.returnValue = gamepad.buttons[7].value;\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        eventsFunctionContext.returnValue = -1;\r",
+                "        break;\r",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Trigger button",
+              "name": "trigger",
+              "supplementaryInformation": "[\"LT\",\"RT\",\"L2\",\"R2\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Get the force value of a gamepad stick.\n0 is stick on default position, 1 is at the maximum.",
+          "fullName": "Value of a stick force",
+          "functionType": "Expression",
+          "name": "StickForce",
+          "sentence": "Player _PARAM1_ push axis _PARAM2_ to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const stick = eventsFunctionContext.getArgument(\"stick\").toUpperCase();\r",
+                "\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier is not valid in expression: \"Value of a stick force\"');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "if (stick !== \"LEFT\" && stick !== \"RIGHT\") {\r",
+                "    console.error('Parameter stick is not valid in expression: \"Value of a stick force\"');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "\r",
+                "switch (stick) {\r",
+                "    case 'LEFT':\r",
+                "        eventsFunctionContext.returnValue = gdjs.evtTools.common.clamp(Math.abs(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId)) + Math.abs(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId)), 0, 1);\r",
+                "        break;\r",
+                "\r",
+                "    case 'RIGHT':\r",
+                "        eventsFunctionContext.returnValue = gdjs.evtTools.common.clamp(Math.abs(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId)) + Math.abs(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId)), 0, 1);\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        eventsFunctionContext.returnValue = -1;\r",
+                "        break;\r",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Stick: \"Left\" or \"Right\"",
+              "name": "stick",
+              "supplementaryInformation": "[\"Left\",\"Right\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Get the rotation value of a gamepad stick.\nIf the deadzone value is high, the angle value is rounded to main axes, left, left, up, down.\nAn zero deadzone value give a total freedom on the angle value.",
+          "fullName": "Value of a stick rotation",
+          "functionType": "Expression",
+          "name": "StickRotationValue",
+          "sentence": "Player _PARAM1_ push axis _PARAM2_ to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const stick = eventsFunctionContext.getArgument(\"stick\").toUpperCase();\r",
+                "\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier is not valid in expression: \"Value of a stick rotation\"');\r",
+                "    return;\r",
+                "}\r",
+                "if (stick !== \"LEFT\" && stick !== \"RIGHT\") {\r",
+                "    console.error('Parameter stick is not valid in expression: \"Value of a stick rotation\"');\r",
+                "    return;\r",
+                "}\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "switch (stick) {\r",
+                "    case 'LEFT':\r",
+                "        eventsFunctionContext.returnValue = gdjs._extensionController.axisToAngle(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId), gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId));\r",
+                "        break;\r",
+                "\r",
+                "    case 'RIGHT':\r",
+                "        eventsFunctionContext.returnValue = gdjs._extensionController.axisToAngle(gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId), gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId));\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        eventsFunctionContext.returnValue = -1;\r",
+                "        break;\r",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Stick: \"Left\" or \"Right\"",
+              "name": "stick",
+              "supplementaryInformation": "[\"Left\",\"Right\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Get the value of axis of a gamepad stick.",
+          "fullName": "Value of a gamepad axis",
+          "functionType": "Expression",
+          "name": "AxisValue",
+          "sentence": "Player _PARAM1_ push axis _PARAM2_ to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const stick = eventsFunctionContext.getArgument(\"stick\").toUpperCase();\r",
+                "const direction = eventsFunctionContext.getArgument(\"direction\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier is not valid in expression: \"Value of a gamepad axis\"');\r",
+                "    return;\r",
+                "}\r",
+                "if (stick != \"LEFT\" && stick != \"RIGHT\") {\r",
+                "    console.error('Parameter stick is not valid in expression: \"Value of a gamepad axis\"');\r",
+                "    return;\r",
+                "}\r",
+                "if (direction != \"UP\" && direction != \"DOWN\" && direction != \"LEFT\" && direction != \"RIGHT\" && direction != \"HORIZONTAL\" && direction != \"VERTICAL\") {\r",
+                "    console.error('Parameter direction is not valid in expression: \"Value of a gamepad axis\"');\r",
+                "    return;\r",
+                "}\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "let parameterError = false;\r",
+                "switch (stick) {\r",
+                "    case 'LEFT':\r",
+                "        switch (direction) {\r",
+                "            case 'LEFT':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = -gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'RIGHT':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'UP':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = -gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'DOWN':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case \"HORIZONTAL\":\r",
+                "                eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[0], playerId);\r",
+                "                break;\r",
+                "\r",
+                "            case \"VERTICAL\":\r",
+                "                eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[1], playerId);\r",
+                "                break;\r",
+                "\r",
+                "            default:\r",
+                "                break;\r",
+                "        }\r",
+                "        break;\r",
+                "\r",
+                "    case 'RIGHT':\r",
+                "        switch (direction) {\r",
+                "            case 'LEFT':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = -gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'RIGHT':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'UP':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = -gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'DOWN':\r",
+                "                if (gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId);\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case \"HORIZONTAL\":\r",
+                "                eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[2], playerId);\r",
+                "                break;\r",
+                "\r",
+                "            case \"VERTICAL\":\r",
+                "                eventsFunctionContext.returnValue = gdjs._extensionController.getNormalizedAxisValue(gamepad.axes[3], playerId);\r",
+                "                break;\r",
+                "\r",
+                "            default:\r",
+                "                break;\r",
+                "        }\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        break;\r",
+                "}\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Stick: \"Left\" or \"Right\"",
+              "name": "stick",
+              "supplementaryInformation": "[\"Left\",\"Right\"]",
+              "type": "stringWithSelector"
+            },
+            {
+              "description": "Direction",
+              "name": "direction",
+              "supplementaryInformation": "[\"Up\",\"Down\",\"Left\",\"Right\",\"Horizontal\",\"Vertical\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Test if a button is released on a gamepad. Buttons can be:\n* Xbox: \"A\", \"B\", \"X\", \"Y\", \"LB\", \"RB\", \"LT\", \"RT\", \"BACK\", \"START\",\n* PS4: \"CROSS\", \"SQUARE\", \"CIRCLE\", \"TRIANGLE\", \"L1\", \"L2\", \"R1\", \"R2\", \"SHARE\", \"OPTIONS\", \"PS_BUTTON\", \"CLICK_TOUCHPAD\",\n* Other: \"UP\", \"DOWN\", \"LEFT\", \"RIGHT\", \"CLICK_STICK_LEFT\", \"CLICK_STICK_RIGHT\".",
+          "fullName": "Gamepad button released",
+          "functionType": "Condition",
+          "name": "C_Button_released",
+          "sentence": "Button _PARAM2_ of gamepad _PARAM1_ is released",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const button = eventsFunctionContext.getArgument(\"button\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in condition: \"Gamepad button released\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "if (button === \"\") {\r",
+                "    console.error('Parameter button is not valid in condition: \"Gamepad button released\"');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "let buttonId;\r",
+                "\r",
+                "switch (button) {\r",
+                "    case 'A':\r",
+                "    case 'CROSS':\r",
+                "        buttonId = 0;\r",
+                "        break;\r",
+                "    case 'B':\r",
+                "    case 'CIRCLE':\r",
+                "        buttonId = 1;\r",
+                "        break;\r",
+                "    case 'X':\r",
+                "    case 'SQUARE':\r",
+                "        buttonId = 2;\r",
+                "        break;\r",
+                "    case 'Y':\r",
+                "    case 'TRIANGLE':\r",
+                "        buttonId = 3;\r",
+                "        break;\r",
+                "    case 'LB':\r",
+                "    case 'L1':\r",
+                "        buttonId = 4;\r",
+                "        break;\r",
+                "    case 'RB':\r",
+                "    case 'R1':\r",
+                "        buttonId = 5;\r",
+                "        break;\r",
+                "    case 'LT':\r",
+                "    case 'L2':\r",
+                "        buttonId = 6;\r",
+                "        break;\r",
+                "    case 'RT':\r",
+                "    case 'R2':\r",
+                "        buttonId = 7;\r",
+                "        break;\r",
+                "\r",
+                "    case 'UP':\r",
+                "        buttonId = 12;\r",
+                "        break;\r",
+                "    case 'DOWN':\r",
+                "        buttonId = 13;\r",
+                "        break;\r",
+                "    case 'LEFT':\r",
+                "        buttonId = 14;\r",
+                "        break;\r",
+                "    case 'RIGHT':\r",
+                "        buttonId = 15;\r",
+                "        break;\r",
+                "\r",
+                "    case 'BACK':\r",
+                "    case 'SHARE':\r",
+                "        buttonId = 8;\r",
+                "        break;\r",
+                "    case 'START':\r",
+                "    case 'OPTIONS':\r",
+                "        buttonId = 9;\r",
+                "        break;\r",
+                "\r",
+                "    case 'CLICK_STICK_LEFT':\r",
+                "        buttonId = 10;\r",
+                "        break;\r",
+                "    case 'CLICK_STICK_RIGHT':\r",
+                "        buttonId = 11;\r",
+                "        break;\r",
+                "\r",
+                "    //PS4\r",
+                "    case 'PS_BUTTON':\r",
+                "        buttonId = 16;\r",
+                "        break;\r",
+                "    case 'CLICK_TOUCHPAD':\r",
+                "        buttonId = 17;\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        console.error('The button: ' + button + ' in condition: \"Gamepad button released\" is not valid.');\r",
+                "        break;\r",
+                "}\r",
+                "\r",
+                "if (buttonId === undefined) {\r",
+                "    console.error('There is no buttons valid in condition: \"Gamepad button released\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "if (gamepad.buttons == null || gamepad.buttons[buttonId] == null) {\r",
+                "    console.error('Buttons on the gamepad are not accessible in condition: \"Gamepad button released\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "//Define default value on pressed button or use previous value\r",
+                "gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId] = gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId] || { pressed: false };\r",
+                "\r",
+                "//Get state of button at previous frame\r",
+                "const previousStateButton = gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed;\r",
+                "\r",
+                "//When previousStateButton is true and actual button state is not pressed\r",
+                "//Player have release the button\r",
+                "if (previousStateButton === true && gamepad.buttons[buttonId].pressed === false) {\r",
+                "    // Save the last button used for the player    \r",
+                "    gdjs._extensionController.players[playerId].lastButtonUsed = buttonId;\r",
+                "    gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed = true;\r",
+                "    eventsFunctionContext.returnValue = true;\r",
+                "\r",
+                "} else {\r",
+                "    gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed = false;\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "}\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Name of the button",
+              "name": "button",
+              "supplementaryInformation": "[\"A\",\"Cross\",\"B\",\"Circle\",\"X\",\"Square\",\"Y\",\"Triangle\",\"LB\",\"L1\",\"RB\",\"R1\",\"LT\",\"L2\",\"RT\",\"R2\",\"Up\",\"Down\",\"Left\",\"Right\",\"Back\",\"Share\",\"Start\",\"Options\",\"Click_Stick_Left\",\"Click_Stick_Right\",\"PS_Button\",\"Click_Touchpad\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the index of the last pressed button of a gamepad.",
+          "fullName": "Last pressed button (id)",
+          "functionType": "Expression",
+          "name": "LastButtonID",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "//Get function parameter\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "\r",
+                "//Player id is not valid\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in expression: \"Last pressed button (id)\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "//Return the last button used by the player\r",
+                "eventsFunctionContext.returnValue = gdjs._extensionController.players[playerId].lastButtonUsed;"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if any button is pressed on a gamepad.",
+          "fullName": "Any gamepad button pressed",
+          "functionType": "Condition",
+          "name": "C_Any_Button_pressed",
+          "sentence": "Any button of gamepad _PARAM1_ is pressed",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameter\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in condition: \"Any gamepad button pressed\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "let buttonId;\r",
+                "for (let i = 0; i < gamepad.buttons.length; i++) { //For each buttons\r",
+                "    if (gamepad.buttons[i].pressed) { //One of them is pressed\r",
+                "        buttonId = i; //Save the button pressed\r",
+                "        break;\r",
+                "    }\r",
+                "}\r",
+                "\r",
+                "if (buttonId === undefined) {\r",
+                "    // No buttons are pressed.\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "if (gamepad.buttons == null || gamepad.buttons[buttonId] == null) {\r",
+                "    console.error('Buttons on the gamepad are not accessible in condition: \"Any gamepad button pressed\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "//When a button is pressed, save the button in lastButtonUsed for each players\r",
+                "if (gamepad.buttons[buttonId].pressed) gdjs._extensionController.players[playerId].lastButtonUsed = buttonId;\r",
+                "eventsFunctionContext.returnValue = gamepad.buttons[buttonId].pressed;\r",
+                "\r",
+                "\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the last button pressed. \nButtons for Xbox and PS4 can be:\n* Xbox: \"A\", \"B\", \"X\", \"Y\", \"LB\", \"RB\", \"LT\", \"RT\", \"BACK\", \"START\",\n* PS4: \"CROSS\", \"SQUARE\", \"CIRCLE\", \"TRIANGLE\", \"L1\", \"L2\", \"R1\", \"R2\", \"SHARE\", \"OPTIONS\", \"PS_BUTTON\", \"CLICK_TOUCHPAD\",\n* Both: \"UP\", \"DOWN\", \"LEFT\", \"RIGHT\", \"CLICK_STICK_LEFT\", \"CLICK_STICK_RIGHT\".",
+          "fullName": "Last pressed button (string)",
+          "functionType": "StringExpression",
+          "name": "LastButtonString",
+          "sentence": "Button _PARAM2_ of gamepad _PARAM1_ is pressed",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const controllerType = eventsFunctionContext.getArgument(\"controller_type\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in string expression: \"Last pressed button (LastButtonString)\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "if (controllerType === \"\") {\r",
+                "    console.error('Parameter controller type is not valid in string expression: \"Last pressed button (LastButtonString)\"');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "if (gamepad !== null) { //Gamepad exist\r",
+                "    //Get last btn id\r",
+                "    const lastButtonUsedID = gdjs._extensionController.players[playerId].lastButtonUsed;\r",
+                "\r",
+                "    //Return last button as string    \r",
+                "    eventsFunctionContext.returnValue = gdjs._extensionController.getInputString(controllerType, lastButtonUsedID);\r",
+                "\r",
+                "} else { //Gamepad dosen't exist\r",
+                "    console.error('Your controller is not supported or the gamepad wasn\\'t detected in string expression: \"Last pressed button (LastButtonString)\"');\r",
+                "    eventsFunctionContext.returnValue = \"Gamepad not connected\";\r",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Controller type",
+              "name": "controller_type",
+              "supplementaryInformation": "[\"Xbox\",\"PS4\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the number of gamepads.",
+          "fullName": "Gamepad count",
+          "functionType": "Expression",
+          "name": "GamepadCount",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get the last activated controller\r",
+                "const controllerId = gdjs._extensionController.lastActiveController;\r",
+                "\r",
+                "// Check if controller is active\r",
+                "const gamepad = gamepads[controllerId];\r",
+                "if (gamepad == null) {\r",
+                "    eventsFunctionContext.returnValue = 0;\r",
+                "} else {\r",
+                "    // Return active controller id\r",
+                "    eventsFunctionContext.returnValue = controllerId + 1;\r",
+                "}\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if a button is pressed on a gamepad. \nButtons can be:\n* Xbox: \"A\", \"B\", \"X\", \"Y\", \"LB\", \"RB\", \"LT\", \"RT\", \"BACK\", \"START\",\n* PS4: \"CROSS\", \"SQUARE\", \"CIRCLE\", \"TRIANGLE\", \"L1\", \"L2\", \"R1\", \"R2\", \"SHARE\", \"OPTIONS\", \"PS_BUTTON\", \"CLICK_TOUCHPAD\",\n* Other: \"UP\", \"DOWN\", \"LEFT\", \"RIGHT\", \"CLICK_STICK_LEFT\", \"CLICK_STICK_RIGHT\".",
+          "fullName": "Gamepad button pressed",
+          "functionType": "Condition",
+          "name": "C_Button_pressed",
+          "sentence": "Button _PARAM2_ of gamepad _PARAM1_ is pressed",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const button = eventsFunctionContext.getArgument(\"button\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in condition: \"Gamepad button pressed\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "if (button === \"\") {\r",
+                "    console.error('Parameter button is not valid in condition: \"Gamepad button pressed\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "let buttonId;\r",
+                "\r",
+                "switch (button) {\r",
+                "    case 'A':\r",
+                "    case 'CROSS':\r",
+                "        buttonId = 0;\r",
+                "        break;\r",
+                "    case 'B':\r",
+                "    case 'CIRCLE':\r",
+                "        buttonId = 1;\r",
+                "        break;\r",
+                "    case 'X':\r",
+                "    case 'SQUARE':\r",
+                "        buttonId = 2;\r",
+                "        break;\r",
+                "    case 'Y':\r",
+                "    case 'TRIANGLE':\r",
+                "        buttonId = 3;\r",
+                "        break;\r",
+                "    case 'LB':\r",
+                "    case 'L1':\r",
+                "        buttonId = 4;\r",
+                "        break;\r",
+                "    case 'RB':\r",
+                "    case 'R1':\r",
+                "        buttonId = 5;\r",
+                "        break;\r",
+                "    case 'LT':\r",
+                "    case 'L2':\r",
+                "        buttonId = 6;\r",
+                "        break;\r",
+                "    case 'RT':\r",
+                "    case 'R2':\r",
+                "        buttonId = 7;\r",
+                "        break;\r",
+                "\r",
+                "    case 'UP':\r",
+                "        buttonId = 12;\r",
+                "        break;\r",
+                "    case 'DOWN':\r",
+                "        buttonId = 13;\r",
+                "        break;\r",
+                "    case 'LEFT':\r",
+                "        buttonId = 14;\r",
+                "        break;\r",
+                "    case 'RIGHT':\r",
+                "        buttonId = 15;\r",
+                "        break;\r",
+                "\r",
+                "    case 'BACK':\r",
+                "    case 'SHARE':\r",
+                "        buttonId = 8;\r",
+                "        break;\r",
+                "    case 'START':\r",
+                "    case 'OPTIONS':\r",
+                "        buttonId = 9;\r",
+                "        break;\r",
+                "\r",
+                "    case 'CLICK_STICK_LEFT':\r",
+                "        buttonId = 10;\r",
+                "        break;\r",
+                "    case 'CLICK_STICK_RIGHT':\r",
+                "        buttonId = 11;\r",
+                "        break;\r",
+                "\r",
+                "    //PS4\r",
+                "    case 'PS_BUTTON':\r",
+                "        buttonId = 16;\r",
+                "        break;\r",
+                "    case 'CLICK_TOUCHPAD':\r",
+                "        buttonId = 17;\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        console.error('The button: ' + button + ' in condition: \"Gamepad button pressed\" is not valid.');\r",
+                "        eventsFunctionContext.returnValue = false;\r",
+                "        break;\r",
+                "}\r",
+                "\r",
+                "\r",
+                "\r",
+                "if (buttonId === undefined) {\r",
+                "    console.error('There is no buttons valid in condition: \"Gamepad button pressed\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "if (gamepad.buttons == null || gamepad.buttons[buttonId] == null) {\r",
+                "    console.error('Buttons on the gamepad are not accessible in condition: \"Gamepad button pressed\"');\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "//When a button is pressed, save the button in lastButtonUsed for each players\r",
+                "if (gamepad.buttons[buttonId].pressed) gdjs._extensionController.players[playerId].lastButtonUsed = buttonId;\r",
+                "eventsFunctionContext.returnValue = gamepad.buttons[buttonId].pressed;\r",
+                "\r",
+                "\r",
+                "\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Name of the button",
+              "name": "button",
+              "supplementaryInformation": "[\"A\",\"Cross\",\"B\",\"Circle\",\"X\",\"Square\",\"Y\",\"Triangle\",\"LB\",\"L1\",\"RB\",\"R1\",\"LT\",\"L2\",\"RT\",\"R2\",\"Up\",\"Down\",\"Left\",\"Right\",\"BAck\",\"Share\",\"Start\",\"Options\",\"Click_Stick_Left\",\"Click_Stick_Right\",\"PS_Button\",\"Click_Touchpad\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the value of the deadzone applied to a gamepad sticks, between 0 and 1.",
+          "fullName": "Gamepad deadzone for sticks",
+          "functionType": "Expression",
+          "name": "Deadzone",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "//Get function parameter\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in expression: \"Gamepad deadzone for sticks\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "///Return the deadzone value for a given player\r",
+                "eventsFunctionContext.returnValue = gdjs._extensionController.players[playerId].deadzone;"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Set the deadzone for sticks of the gamepad. The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved). Deadzone is between 0 and 1, and is by default 0.2.",
+          "fullName": "Set gamepad deadzone for sticks",
+          "functionType": "Action",
+          "name": "A_Set_deadzone",
+          "sentence": "Set deadzone for sticks on gamepad: _PARAM1_ to _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "//Get function parameter\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const newDeadzone = eventsFunctionContext.getArgument(\"deadzone\");\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in action: \"Set gamepad deadzone for sticks\", is not valid, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "// clamp the newDeadzone in range [0, 1].\r",
+                "// https://github.com/4ian/GDevelop-extensions/pull/33#issuecomment-618224857\r",
+                "gdjs._extensionController.players[playerId].deadzone = gdjs.evtTools.common.clamp(newDeadzone, 0, 1);\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Deadzone for sticks, 0.2 by default (0 to 1)",
+              "name": "deadzone",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if a stick of a gamepad is pushed in a given direction.",
+          "fullName": "Gamepad stick pushed (axis)",
+          "functionType": "Condition",
+          "name": "C_Axis_pushed",
+          "sentence": "_PARAM2_ stick of gamepad _PARAM1_ is pushed in direction _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "const stick = eventsFunctionContext.getArgument(\"stick\").toUpperCase();\r",
+                "const direction = eventsFunctionContext.getArgument(\"direction\").toUpperCase();\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "    console.error('Parameter gamepad identifier in condition: \"Gamepad stick pushed (axis)\", is not valid number, must be between 0 and 4.');\r",
+                "    return;\r",
+                "}\r",
+                "if (stick != \"LEFT\" && stick != \"RIGHT\") {\r",
+                "    console.error('Parameter stick in condition: \"Gamepad stick pushed (axis)\", is not valid, must be LEFT or RIGHT');\r",
+                "    return;\r",
+                "}\r",
+                "if (direction != \"UP\" && direction != \"DOWN\" && direction != \"LEFT\" && direction != \"RIGHT\" && direction != \"ANY\") {\r",
+                "    console.error('Parameter deadzone in condition: \"Gamepad stick pushed (axis)\", is not valid, must be UP, DOWN, LEFT or RIGHT');\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) {\r",
+                "    eventsFunctionContext.returnValue = false;\r",
+                "    return;\r",
+                "}\r",
+                "\r",
+                "\r",
+                "//Define in onFirstSceneLoaded function\r",
+                "const getNormalizedAxisValue = gdjs._extensionController.getNormalizedAxisValue;\r",
+                "\r",
+                "switch (stick) {\r",
+                "    case 'LEFT':\r",
+                "        switch (direction) {\r",
+                "            case 'LEFT':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[0], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'RIGHT':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[0], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'UP':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[1], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'DOWN':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[1], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'ANY':\r",
+                "                if (   getNormalizedAxisValue(gamepad.axes[0], playerId) < 0\r",
+                "                    || getNormalizedAxisValue(gamepad.axes[0], playerId) > 0\r",
+                "                    || getNormalizedAxisValue(gamepad.axes[1], playerId) < 0 \r",
+                "                    || getNormalizedAxisValue(gamepad.axes[1], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            default:\r",
+                "                console.error('The value Direction on stick Left on the condition: \"Gamepad stick pushed (axis)\" is not valid.');\r",
+                "                eventsFunctionContext.returnValue = false;\r",
+                "                break;\r",
+                "        }\r",
+                "        break;\r",
+                "\r",
+                "    case 'RIGHT':\r",
+                "        switch (direction) {\r",
+                "            case 'LEFT':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[2], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'RIGHT':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[2], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'UP':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[3], playerId) < 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'DOWN':\r",
+                "                if (getNormalizedAxisValue(gamepad.axes[3], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            case 'ANY':\r",
+                "                if (   getNormalizedAxisValue(gamepad.axes[2], playerId) < 0\r",
+                "                    || getNormalizedAxisValue(gamepad.axes[2], playerId) > 0\r",
+                "                    || getNormalizedAxisValue(gamepad.axes[3], playerId) < 0 \r",
+                "                    || getNormalizedAxisValue(gamepad.axes[3], playerId) > 0) {\r",
+                "                    eventsFunctionContext.returnValue = true;\r",
+                "                    return;\r",
+                "                }\r",
+                "                break;\r",
+                "\r",
+                "            default:\r",
+                "                console.error('The value Direction on stick Right on the condition: \"Gamepad stick pushed (axis)\" is not valid.');\r",
+                "                eventsFunctionContext.returnValue = false;\r",
+                "                break;\r",
+                "        }\r",
+                "        break;\r",
+                "\r",
+                "    default:\r",
+                "        console.error('The value Stick on the condition: \"Gamepad stick pushed (axis)\" is not valid.');\r",
+                "        eventsFunctionContext.returnValue = false;\r",
+                "        break;\r",
+                "}\r",
+                "\r",
+                "eventsFunctionContext.returnValue = false;\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Stick: \"Left\" or \"Right\"",
+              "name": "stick",
+              "supplementaryInformation": "[\"Left\",\"Right\"]",
+              "type": "stringWithSelector"
+            },
+            {
+              "description": "Direction",
+              "name": "direction",
+              "supplementaryInformation": "[\"Up\",\"Down\",\"Left\",\"Right\",\"Any\"]",
+              "type": "stringWithSelector"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the number of connected gamepads.",
+          "fullName": "Connected gamepads number",
+          "functionType": "Expression",
+          "name": "ConnectedGamepadsCount",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "// Gamepads can be disconnected and become null, so we have to filter them.\r",
+                "eventsFunctionContext.returnValue = Object.keys(gamepads).filter(key => !!gamepads[key]).length;\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Return a string containing informations about the specified gamepad.",
+          "fullName": "Gamepad type",
+          "functionType": "StringExpression",
+          "name": "GamepadType",
+          "sentence": "Player _PARAM1_ use _PARAM2_ controller",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);",
+                "",
+                "//Get function parameter",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;",
+                "",
+                "if (playerId < 0 || playerId > 4) {",
+                "    console.error('Parameter gamepad identifier in string expression: \"Gamepad type\", is not valid number, must be between 0 and 4');",
+                "    return;",
+                "}",
+                "",
+                "const gamepad = gamepads[playerId];",
+                "",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.",
+                "if (gamepad == null) return;",
+                "",
+                "eventsFunctionContext.returnValue = (gamepad && gamepad.id) ? gamepad.id : \"No information for player \" + (playerId + 1)",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the specified gamepad has the specified information in its description. Useful to know if the gamepad is a Xbox or PS4 controller.",
+          "fullName": "Gamepad type",
+          "functionType": "Condition",
+          "name": "C_Controller_type",
+          "sentence": "Gamepad _PARAM1_ is a _PARAM2_ controller",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);",
+                "",
+                "//Get function parameters",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;",
+                "const controllerType = eventsFunctionContext.getArgument(\"controller_type\").toUpperCase();",
+                "",
+                "if (playerId < 0 || playerId > 4) {",
+                "    console.error('Parameter gamepad identifier in condition: \"Gamepad type\", is not valid number, must be between 0 and 4.');",
+                "    return;",
+                "}",
+                "if (controllerType === \"\") {",
+                "    console.error('Parameter type in condition: \"Gamepad type\", is not a string.');",
+                "    return;",
+                "}",
+                "",
+                "const gamepad = gamepads[playerId];",
+                "",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.",
+                "if (gamepad == null) return;",
+                "",
+                "",
+                "if (controllerType == \"XBOX\") {",
+                "    eventsFunctionContext.returnValue = gdjs._extensionController.isXbox(gamepad);",
+                "} else {",
+                "    eventsFunctionContext.returnValue = gamepad ? gamepad.id.toUpperCase().indexOf(controllerType) !== -1 : false;",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Type: \"Xbox\", \"PS4\", \"Steam\" or \"PS3\" (among other)",
+              "name": "controller_type",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if a gamepad is connected.",
+          "fullName": "Gamepad connected",
+          "functionType": "Condition",
+          "name": "C_Controller_X_is_connected",
+          "sentence": "Gamepad _PARAM1_ is plugged and connected",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);",
+                "",
+                "//Get function parameter",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;",
+                "",
+                "if (playerId < 0 || playerId > 4) {",
+                "    console.error('Parameter gamepad identifier in condition: \"Gamepad connected\", is not valid number, must be between 0 and 4.');",
+                "    return;",
+                "}",
+                "",
+                "// If gamepad was disconnected it will be null (so this will return false)",
+                "// If gamepad was never connected it will be undefined (so this will return false)",
+                "eventsFunctionContext.returnValue = !!gamepads[playerId];"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Generate a vibration on the specified controller. Might only work if the game is running in a recent web browser.",
+          "fullName": "Gamepad vibration",
+          "functionType": "Action",
+          "name": "A_Vibrate_controller",
+          "sentence": "Make gamepad _PARAM1_ vibrate for _PARAM2_ seconds",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */",
+                "//Vibration work only on game in browser.",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);",
+                "",
+                "//Get function parameters",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;",
+                "const duration = eventsFunctionContext.getArgument(\"duration\") || 1;",
+                "",
+                "if (playerId < 0 || playerId > 4) {",
+                "  console.error('Parameter gamepad identifier in action: \"Gamepad connected\", is not valid number, must be between 0 and 4.');",
+                "  return;",
+                "}",
+                "",
+                "const gamepad = gamepads[playerId];",
+                "",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.",
+                "if (gamepad == null) return;",
+                "",
+                "if (gamepad && gamepad.vibrationActuator) {",
+                "  gamepad.vibrationActuator.playEffect(\"dual-rumble\", {",
+                "    startDelay: 0,",
+                "    duration: duration * 1000,",
+                "    weakMagnitude: 1.0,",
+                "    strongMagnitude: 1.0",
+                "  });",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            },
+            {
+              "description": "Time of the vibration, in seconds (optional, default value is 1)",
+              "name": "duration",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onFirstSceneLoaded",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "//Define an new private object javascript for the gamepad extension\r",
+                "gdjs._extensionController = {\r",
+                "    players: {\r",
+                "        0: { mapping: 'DEFAULT', lastButtonUsed: -1, deadzone: 0.2, previousFrameStateButtons: {}, },\r",
+                "        1: { mapping: 'DEFAULT', lastButtonUsed: -1, deadzone: 0.2, previousFrameStateButtons: {}, },\r",
+                "        2: { mapping: 'DEFAULT', lastButtonUsed: -1, deadzone: 0.2, previousFrameStateButtons: {}, },\r",
+                "        3: { mapping: 'DEFAULT', lastButtonUsed: -1, deadzone: 0.2, previousFrameStateButtons: {}, },\r",
+                "    },\r",
+                "    lastActiveController: -1, // Last active controller\r",
+                "    controllerButtonNames: { //Map associating controller button ids to button names\r",
+                "        \"XBOX\": {\r",
+                "            0: \"A\",\r",
+                "            1: \"B\",\r",
+                "            2: \"X\",\r",
+                "            3: \"Y\",\r",
+                "            4: \"LB\",\r",
+                "            5: \"RB\",\r",
+                "            6: \"LT\",\r",
+                "            7: \"RT\",\r",
+                "            8: \"BACK\",\r",
+                "            9: \"START\",\r",
+                "            10: \"CLICK_STICK_LEFT\",\r",
+                "            11: \"CLICK_STICK_RIGHT\",\r",
+                "            12: \"UP\",\r",
+                "            13: \"DOWN\",\r",
+                "            14: \"LEFT\",\r",
+                "            15: \"RIGHT\",\r",
+                "            16: \"NONE\",\r",
+                "            17: \"NONE\"\r",
+                "        },\r",
+                "        \"PS4\": {\r",
+                "            0: \"CROSS\",\r",
+                "            1: \"CIRCLE\",\r",
+                "            2: \"SQUARE\",\r",
+                "            3: \"TRIANGLE\",\r",
+                "            4: \"L1\",\r",
+                "            5: \"R1\",\r",
+                "            6: \"L2\",\r",
+                "            7: \"R2\",\r",
+                "            8: \"SHARE\",\r",
+                "            9: \"OPTIONS\",\r",
+                "            10: \"CLICK_STICK_LEFT\",\r",
+                "            11: \"CLICK_STICK_RIGHT\",\r",
+                "            12: \"UP\",\r",
+                "            13: \"DOWN\",\r",
+                "            14: \"LEFT\",\r",
+                "            15: \"RIGHT\",\r",
+                "            16: \"PS_BUTTON\",\r",
+                "            17: \"CLICK_TOUCHPAD\"\r",
+                "        }\r",
+                "    }\r",
+                "};\r",
+                "\r",
+                "gdjs._extensionController.getInputString = function (type, buttonId) {\r",
+                "    const controllerButtonNames = gdjs._extensionController.controllerButtonNames;\r",
+                "    if (controllerButtonNames[type] !== undefined) {\r",
+                "        return controllerButtonNames[type][buttonId];\r",
+                "    }\r",
+                "\r",
+                "    return \"UNKNOWN_BUTTON\";\r",
+                "}\r",
+                "\r",
+                "gdjs._extensionController.axisToAngle = function (deltaX, deltaY) {\r",
+                "    const rad = Math.atan2(deltaY, deltaX);\r",
+                "    const deg = rad * (180 / Math.PI);\r",
+                "    return deg;\r",
+                "}\r",
+                "\r",
+                "gdjs._extensionController.isXbox = function (gamepad) {\r",
+                "    return (gamepad ? (\r",
+                "        gamepad.id.toUpperCase().indexOf(\"XBOX\") !== -1\r",
+                "        // \"XINPUT\" cannot be used to check if it is a xbox controller is just a generic\r",
+                "        // name reported in Firefox corresponding to the driver being used by the controller\r",
+                "        // https://gamefaqs.gamespot.com/boards/916373-pc/73341312?page=1\r",
+                "    ) : false);\r",
+                "}\r",
+                "\r",
+                "//Returns the new value taking into account the dead zone for the player_ID given\r",
+                "gdjs._extensionController.getNormalizedAxisValue = function (v, player_ID) {\r",
+                "    //    gdjs._extensionController = gdjs._extensionController || { deadzone: 0.2 };\r",
+                "\r",
+                "    // Anything smaller than this is assumed to be 0,0\r",
+                "    const DEADZONE = gdjs._extensionController.players[player_ID].deadzone;\r",
+                "\r",
+                "    if (Math.abs(v) < DEADZONE) {\r",
+                "        // In the dead zone, set to 0\r",
+                "        v = 0;\r",
+                "\r",
+                "        if (v == null) {\r",
+                "            return 0;\r",
+                "        } else {\r",
+                "            return v;\r",
+                "        }\r",
+                "\r",
+                "    } else {\r",
+                "        // We're outside the dead zone, but we'd like to smooth\r",
+                "        // this value out so it still runs nicely between 0..1.\r",
+                "        // That is, we don't want it to jump suddenly from 0 to\r",
+                "        // DEADZONE.\r",
+                "\r",
+                "        // Remap v from\r",
+                "        //    DEADZONE..1 to 0..(1-DEADZONE)\r",
+                "        // or from\r",
+                "        //    -1..-DEADZONE to -(1-DEADZONE)..0\r",
+                "\r",
+                "        v = v - Math.sign(v) * DEADZONE;\r",
+                "\r",
+                "        // Remap v from\r",
+                "        //    0..(1-DEADZONE) to 0..1\r",
+                "        // or from\r",
+                "        //    -(1-DEADZONE)..0 to -1..0\r",
+                "\r",
+                "        return v / (1 - DEADZONE);\r",
+                "    }\r",
+                "};"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onScenePostEvents",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "//Each time a player press a button i save the last button pressed for the next frame",
+                "/** @type {Gamepad[]} */",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);",
+                "",
+                "//Get function parameter",
+                "let countPlayers = Object.keys(gdjs._extensionController.players).length;",
+                "",
+                "//Repeat for each players",
+                "for (let i = 0; i < countPlayers; i++) {",
+                "    let gamepad = gamepads[i]; // Get the gamepad of the player",
+                "",
+                "    //We have to keep this condition because if the user hasn't plugged in his controller yet, we can't get the controller in the gamepad variable.",
+                "    if (gamepad == null) {",
+                "        continue;",
+                "    }",
+                "",
+                "    for (let b = 0; b < Object.keys(gamepad.buttons).length; b++) { //For each buttons",
+                "        if (gamepad.buttons[b].pressed) { //One of them is pressed",
+                "            gdjs._extensionController.players[i].lastButtonUsed = b; //Save the button pressed",
+                "",
+                "            //Save the state of the button for the next frame.",
+                "            gdjs._extensionController.players[i].previousFrameStateButtons[b] = { pressed: true };",
+                "",
+                "            // Update Last Active Controller",
+                "            gdjs._extensionController.lastActiveController = i;",
+                "        } else {",
+                "            gdjs._extensionController.players[i].previousFrameStateButtons[b] = { pressed: false };",
+                "        }",
+                "    }",
+                "}",
+                "",
+                "",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if any button is released on a gamepad.",
+          "fullName": "Any gamepad button released",
+          "functionType": "Condition",
+          "name": "C_any_button_released",
+          "sentence": "Any button of gamepad _PARAM1_ is released",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "/** @type {Gamepad[]} */\r",
+                "const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);\r",
+                "\r",
+                "//Get function parameters\r",
+                "const playerId = eventsFunctionContext.getArgument(\"player_ID\") - 1;\r",
+                "\r",
+                "if (playerId < 0 || playerId > 4) {\r",
+                "\tconsole.error('Parameter gamepad identifier in condition: \"Any gamepad button released\", is not valid number, must be between 0 and 4.');\r",
+                "\treturn;\r",
+                "}\r",
+                "\r",
+                "const gamepad = gamepads[playerId];\r",
+                "\r",
+                "//we need keep this condition because when use have not yet plug her controller we can't get the controller in the gamepad variable.\r",
+                "if (gamepad == null) return;\r",
+                "\r",
+                "for (let buttonId = 0; buttonId < gamepad.buttons.length; buttonId++) { //For each buttons on current frame.\r",
+                "\r",
+                "\tif (buttonId === undefined) {\r",
+                "\t\teventsFunctionContext.returnValue = false;\r",
+                "\t\treturn;\r",
+                "\t}\r",
+                "\r",
+                "\t//Get previous value or define value by default for the current button\r",
+                "\tgdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId] = gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId] || { pressed: false };\r",
+                "\r",
+                "\t//Get state of the button at previous frame\r",
+                "\tconst previousStateButtonIsPressed = gdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed;\r",
+                "\r",
+                "\t//Get the state of the button on the current frame.\r",
+                "\tconst currentFrameStateButtonIsPressed = gamepad.buttons[buttonId].pressed;\r",
+                "\r",
+                "\t//When previousStateButtonIsPressed is true and actual button state is not pressed\r",
+                "\t//Player have release the button\r",
+                "\tif (previousStateButtonIsPressed === true && currentFrameStateButtonIsPressed === false) {\r",
+                "\t\tgdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed = true;\r",
+                "\t\teventsFunctionContext.returnValue = true;\r",
+                "\t\t//break;\r",
+                "\t\treturn;\r",
+                "\t} else {\r",
+                "\t\t//The player didn't released the button yet, the previous frame state is still true\r",
+                "\t\tgdjs._extensionController.players[playerId].previousFrameStateButtons[buttonId].pressed = false;\r",
+                "\t\teventsFunctionContext.returnValue = false;\r",
+                "\t}\r",
+                "\r",
+                "\tif (currentFrameStateButtonIsPressed) gdjs._extensionController.players[playerId].lastButtonUsed = buttonId;\r",
+                "}\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The gamepad identifier: 1, 2, 3 or 4",
+              "name": "player_ID",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Control a platformer character with a gamepad.",
+          "fullName": "Platformer gamepad mapper",
+          "name": "PlatformerGamepadMapper",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Gamepads::C_Controller_X_is_connected"
+                      },
+                      "parameters": [
+                        "",
+                        "Object.Behavior::PropertyGamepadIdentifier()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseArrows"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Up\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateUpKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLadderKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Down\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateDownKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseLeftStick"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Left\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Right\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Up\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateUpKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLadderKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Down\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateDownKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseRightStick"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Left\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Right\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Up\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateUpKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateLadderKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Axis_pushed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Down\"",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::SimulateDownKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"A or Cross\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"A\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"B or Circle\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"B\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"X or Square\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"X\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"Y or Triangle\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"Y\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"LB or L1\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"LB\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"RB or R1\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"RB\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"LT or L2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"LT\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyJumpButton"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "\"RT or R2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Gamepads::C_Button_pressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Object.Behavior::PropertyGamepadIdentifier()",
+                            "\"RT\"",
+                            "\"Left\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Gamepads::PlatformerGamepadMapper",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "PlatformBehavior::PlatformerObjectBehavior"
+              ],
+              "hidden": false,
+              "name": "PlatformerCharacter"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Gamepad identifier (1, 2, 3 or 4)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "GamepadIdentifier"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Use directional pad",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseArrows"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Use left stick",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseLeftStick"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Use right stick",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseRightStick"
+            },
+            {
+              "value": "A or Cross",
+              "type": "Choice",
+              "label": "Jump button",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [
+                "A or Cross",
+                "B or Circle",
+                "X or Square",
+                "Y or Triangle",
+                "LB or L1",
+                "RB or R1",
+                "LT or L2",
+                "RT or R2"
+              ],
+              "hidden": false,
+              "name": "JumpButton"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        },
+        {
+          "description": "Control a top-down character with a gamepad.",
+          "fullName": "Top-down gamepad mapper",
+          "name": "TopDownGamepadMapper",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Gamepads::C_Controller_X_is_connected"
+                      },
+                      "parameters": [
+                        "",
+                        "Object.Behavior::PropertyGamepadIdentifier()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseArrows"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Left\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateLeftKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Right\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateRightKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Up\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateUpKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::C_Button_pressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Object.Behavior::PropertyGamepadIdentifier()",
+                                "\"Down\"",
+                                "\"Left\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateDownKey"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseLeftStick"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"Analog\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateStick"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement",
+                                "Gamepads::StickRotationValue(Object.Behavior::PropertyGamepadIdentifier(), \"Left\")",
+                                "Gamepads::StickForce(Object.Behavior::PropertyGamepadIdentifier(), \"Left\")"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"360°\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateStick"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement",
+                                "Gamepads::StickRotationValue(Object.Behavior::PropertyGamepadIdentifier(), \"Left\")",
+                                "sign(Gamepads::StickForce(Object.Behavior::PropertyGamepadIdentifier(), \"Left\"))"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"8 Directions\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Left\"",
+                                    "\"Left\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateLeftKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Left\"",
+                                    "\"Right\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateRightKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Left\"",
+                                    "\"Up\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateUpKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Left\"",
+                                    "\"Down\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateDownKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Gamepads::PlatformerGamepadMapper::PropertyUseRightStick"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"Analog\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateStick"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement",
+                                "Gamepads::StickRotationValue(Object.Behavior::PropertyGamepadIdentifier(), \"Right\")",
+                                "Gamepads::StickForce(Object.Behavior::PropertyGamepadIdentifier(), \"Right\")"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"360°\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "TopDownMovementBehavior::SimulateStick"
+                              },
+                              "parameters": [
+                                "Object",
+                                "TopDownMovement",
+                                "sign(Gamepads::StickForce(Object.Behavior::PropertyGamepadIdentifier(), \"Right\"))",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Gamepads::TopDownGamepadMapper::PropertyStickMode"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "\"8 Directions\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Right\"",
+                                    "\"Left\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateLeftKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Right\"",
+                                    "\"Right\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateRightKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Right\"",
+                                    "\"Up\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateUpKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "Gamepads::C_Axis_pushed"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Object.Behavior::PropertyGamepadIdentifier()",
+                                    "\"Right\"",
+                                    "\"Down\"",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "TopDownMovementBehavior::SimulateDownKey"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "TopDownMovement"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Gamepads::TopDownGamepadMapper",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Top-down movement behavior",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "TopDownMovementBehavior::TopDownMovementBehavior"
+              ],
+              "hidden": false,
+              "name": "TopDownMovement"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Gamepad identifier (1, 2, 3 or 4)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "GamepadIdentifier"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Use directional pad",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseArrows"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Use left stick",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseLeftStick"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Use right stick",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "UseRightStick"
+            },
+            {
+              "value": "Analog",
+              "type": "Choice",
+              "label": "Stick mode",
+              "description": "",
+              "group": "Controls",
+              "extraInformation": [
+                "Analog",
+                "360°",
+                "8 Directions"
+              ],
+              "hidden": false,
+              "name": "StickMode"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "User interface",
