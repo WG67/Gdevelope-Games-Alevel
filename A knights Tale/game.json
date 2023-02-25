@@ -494,15 +494,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 209,
+      "b": 40,
       "disableInputWhenNotFocused": true,
       "mangledName": "Main",
       "name": "Main",
-      "r": 209,
+      "r": 56,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 40,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -530,6 +530,21 @@
           "x": 38,
           "y": 32,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Wall",
+          "persistentUuid": "08b99c9b-345e-4008-b05b-6ffe0ede065b",
+          "width": 0,
+          "x": 1408,
+          "y": 896,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -614,7 +629,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f0.png",
                       "points": [],
                       "originPoint": {
@@ -628,10 +643,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f1.png",
                       "points": [],
                       "originPoint": {
@@ -645,10 +679,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f2.png",
                       "points": [],
                       "originPoint": {
@@ -662,10 +715,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_idle_anim_f3.png",
                       "points": [],
                       "originPoint": {
@@ -679,7 +751,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -694,7 +785,7 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f0.png",
                       "points": [],
                       "originPoint": {
@@ -708,10 +799,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f1.png",
                       "points": [],
                       "originPoint": {
@@ -725,10 +835,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f2.png",
                       "points": [],
                       "originPoint": {
@@ -742,10 +871,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_run_anim_f3.png",
                       "points": [],
                       "originPoint": {
@@ -759,7 +907,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -774,7 +941,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wizzard_m_hit_anim_f0.png",
                       "points": [],
                       "originPoint": {
@@ -788,7 +955,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.3951988220214844,
+                            "y": 15.719627380371094
+                          },
+                          {
+                            "x": 15.946243286132812,
+                            "y": 15.92507553100586
+                          },
+                          {
+                            "x": 16,
+                            "y": 28
+                          },
+                          {
+                            "x": 2.9020767211914062,
+                            "y": 27.972713470458984
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -847,7 +1033,7 @@
                   "timeBetweenFrames": 0.1667,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f0.png",
                       "points": [],
                       "originPoint": {
@@ -861,10 +1047,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6.4538116455078125,
+                            "y": 6.168891906738281
+                          },
+                          {
+                            "x": 26.23790740966797,
+                            "y": 6.1435546875
+                          },
+                          {
+                            "x": 26.546241760253906,
+                            "y": 31.93543243408203
+                          },
+                          {
+                            "x": 5.5764312744140625,
+                            "y": 31.69898223876953
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f1.png",
                       "points": [],
                       "originPoint": {
@@ -878,10 +1083,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6.4538116455078125,
+                            "y": 6.168891906738281
+                          },
+                          {
+                            "x": 26.23790740966797,
+                            "y": 6.1435546875
+                          },
+                          {
+                            "x": 26.546241760253906,
+                            "y": 31.93543243408203
+                          },
+                          {
+                            "x": 5.5764312744140625,
+                            "y": 31.69898223876953
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f2.png",
                       "points": [],
                       "originPoint": {
@@ -895,10 +1119,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6.4538116455078125,
+                            "y": 6.168891906738281
+                          },
+                          {
+                            "x": 26.23790740966797,
+                            "y": 6.1435546875
+                          },
+                          {
+                            "x": 26.546241760253906,
+                            "y": 31.93543243408203
+                          },
+                          {
+                            "x": 5.5764312744140625,
+                            "y": 31.69898223876953
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_run_anim_f3.png",
                       "points": [],
                       "originPoint": {
@@ -912,7 +1155,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6.4538116455078125,
+                            "y": 6.168891906738281
+                          },
+                          {
+                            "x": 26.23790740966797,
+                            "y": 6.1435546875
+                          },
+                          {
+                            "x": 26.546241760253906,
+                            "y": 31.93543243408203
+                          },
+                          {
+                            "x": 5.5764312744140625,
+                            "y": 31.69898223876953
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1425,17 +1687,10 @@
           "effects": [],
           "behaviors": [
             {
+              "cost": 6,
               "name": "PathfindingObstacle",
               "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
               "impassable": true
-            },
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
             }
           ],
           "animations": [
@@ -1866,8 +2121,8 @@
               },
               "parameters": [
                 "Player",
-                "10",
-                "10",
+                "200",
+                "200",
                 ""
               ]
             }
@@ -2254,41 +2509,7 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Distance"
-              },
-              "parameters": [
-                "Player",
-                "Oger",
-                "20",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Distance"
-              },
-              "parameters": [
-                "Player",
-                "Skeleton",
-                "20",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Distance"
-              },
-              "parameters": [
-                "Player",
-                "Zombie",
-                "20",
-                ""
-              ]
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -2301,32 +2522,18 @@
                 "Player.CenterX()",
                 "Player.CenterY()"
               ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "Skeleton",
-                "Pathfinding",
-                "",
-                "Player.X()",
-                "Player.Y()"
-              ]
-            },
-            {
-              "type": {
-                "value": "PathfindingBehavior::SetDestination"
-              },
-              "parameters": [
-                "Zombie",
-                "Pathfinding",
-                "",
-                "Player.X()",
-                "Player.Y()"
-              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -2543,7 +2750,7 @@
                 "Pathfinding",
                 "10000",
                 "yes",
-                "2",
+                "3",
                 "1",
                 "True",
                 "Wall",
@@ -2587,7 +2794,7 @@
                     "",
                     "Spawner",
                     "Room.X()",
-                    "Room.Y()",
+                    "Room.CenterY()",
                     "\"1\""
                   ]
                 }
@@ -2695,6 +2902,17 @@
       ],
       "layers": [
         {
+          "ambientLightColorB": 13,
+          "ambientLightColorG": 6063568,
+          "ambientLightColorR": 12123320,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 11,
           "ambientLightColorG": 6063568,
           "ambientLightColorR": 11042168,
@@ -2759,10 +2977,6 @@
         {
           "name": "PathfindingObstacle",
           "type": "PathfindingBehavior::PathfindingObstacleBehavior"
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
           "name": "TopDownMovement",
