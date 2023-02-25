@@ -548,6 +548,13 @@
         "name": "assets/0x72_DungeonTilesetII_v1.4/frames/weapon_green_magic_staff.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "Elfboyclassic-PKZgZ.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Elfboyclassic-PKZgZ.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2149,7 +2156,7 @@
               },
               "parameters": [
                 "",
-                "\"Main\"",
+                "\"Dead\"",
                 ""
               ]
             }
@@ -2360,7 +2367,7 @@
               },
               "parameters": [
                 "",
-                "2",
+                "3",
                 "",
                 ""
               ]
@@ -2551,7 +2558,7 @@
               "parameters": [
                 "Player",
                 "Health",
-                "0.1",
+                "0.2",
                 "no",
                 "no",
                 ""
@@ -2615,7 +2622,7 @@
               "parameters": [
                 "Player",
                 "Health",
-                "0.1",
+                "0.05",
                 "no",
                 "no",
                 ""
@@ -3302,6 +3309,139 @@
           "type": "PathfindingBehavior::PathfindingObstacleBehavior"
         }
       ]
+    },
+    {
+      "b": 20,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Dead",
+      "name": "Dead",
+      "r": 112,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 20,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.68359375,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Dead",
+          "persistentUuid": "5a770b4a-ff82-4ead-b3db-2fd1e8df8a12",
+          "width": 0,
+          "x": 68,
+          "y": 225,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Dead",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "You are now dead\n\nPress the space bar\nto try again",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "textAlignment": "center",
+          "characterSize": 100,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "RESTART",
+          "comment2": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
