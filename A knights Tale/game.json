@@ -631,6 +631,33 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/pixel art/1272aa3720a7e69e9125f5d854b17c086f16bee709886fd248220da68259d2e4_Gold Round Toggle_On.png",
           "name": "Gold Round Toggle_On.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_idle_anim_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_idle_anim_f0.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4357,6 +4384,138 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Gamepads::C_Button_pressed"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"A\"",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Book",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Book\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Gamepads::C_Button_pressed"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"B\"",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Book\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Exit",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Gamepads::C_Button_pressed"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"X\"",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -4395,12 +4554,424 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 0.68359375,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
-      "events": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 768,
+          "layer": "",
+          "name": "Wall",
+          "persistentUuid": "a182f763-5d99-4736-8651-b2040bdd90ca",
+          "width": 1024,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Book",
+          "persistentUuid": "a89742bd-b51e-497e-97ae-6314c044a06a",
+          "width": 0,
+          "x": 320,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "layer": "",
+          "name": "ogar",
+          "persistentUuid": "299b8cf7-0622-47e7-bd08-647871cb1980",
+          "width": 160,
+          "x": 32,
+          "y": 160,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Skeleton",
+          "persistentUuid": "89cc1659-8356-4d6f-949a-a508a5290137",
+          "width": 128,
+          "x": 544,
+          "y": 192,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "name": "Zombie",
+          "persistentUuid": "1f509dd5-f916-427e-a8c8-2b4f821fc6d2",
+          "width": 128,
+          "x": 64,
+          "y": 448,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Ogarexplain",
+          "persistentUuid": "c103f02c-0bcf-4d38-bc1a-368f05031796",
+          "width": 0,
+          "x": 192,
+          "y": 192,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Skeleexplain",
+          "persistentUuid": "d0861997-c0f8-49ba-8db1-cecf9fa8d9bd",
+          "width": 0,
+          "x": 672,
+          "y": 192,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Zombexplain2",
+          "persistentUuid": "b07c55a1-4ac2-415c-8ecf-0cf65b2a88e7",
+          "width": 0,
+          "x": 192,
+          "y": 468,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Wall",
+          "tags": "",
+          "texture": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_corner_front_right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Book",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "LE BOOK",
+          "font": "CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 100,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ogar",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/ogre_idle_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Skeleton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/skelet_idle_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Zombie",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/tiny_zombie_idle_anim_f0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Ogarexplain",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Health TBD\nDamage 2 Hearts\nSpeed Slow\n",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Skeleexplain",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Health TBD\nDamage 1 Hearts\nSpeed Fast\n",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Zombexplain2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Health TBD\nDamage Half a heart\nSpeed: Speedy boi\n",
+          "font": "Elfboyclassic-PKZgZ.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Gamepads::C_Button_pressed"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"B\"",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "q"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 10620624,
