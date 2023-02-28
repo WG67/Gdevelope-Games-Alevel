@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Menu",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -23,7 +23,7 @@
     "author": "",
     "windowWidth": 1024,
     "windowHeight": 768,
-    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope-Games-Alevel/A knights Tale/Exports",
+    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope-Games-Alevel/A knights Tale/A knights Tale",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -32,7 +32,7 @@
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
       "backgroundImageResourceName": "",
-      "gdevelopLogoStyle": "light",
+      "gdevelopLogoStyle": "dark",
       "logoAndProgressFadeInDuration": 0.2,
       "logoAndProgressLogoFadeInDelay": 0.2,
       "minDuration": 1.5,
@@ -46,7 +46,7 @@
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -784,6 +784,15 @@
         "name": "assets/0x72_DungeonTilesetII_v1.4/frames/swampy_run_anim_f3.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_mid.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/0x72_DungeonTilesetII_v1.4/frames/wall_mid.png\",\"extension\":\".png\"}",
+        "name": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_mid.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -793,15 +802,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 40,
+      "b": 50,
       "disableInputWhenNotFocused": true,
       "mangledName": "Swamp",
       "name": "Swamp",
-      "r": 56,
+      "r": 31,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 40,
+      "v": 78,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -2098,11 +2107,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_corner_front_right.png",
+                      "image": "assets/0x72_DungeonTilesetII_v1.4/frames/wall_mid.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3360,7 +3370,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "90"
+                    "60"
                   ]
                 },
                 {
@@ -6442,7 +6452,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "90"
+                    "60"
                   ]
                 },
                 {
@@ -6512,6 +6522,16 @@
               "parameters": [
                 "",
                 "\"Main\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Swamp\"",
                 ""
               ]
             }
