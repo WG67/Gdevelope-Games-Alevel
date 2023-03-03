@@ -23,7 +23,7 @@
     "author": "",
     "windowWidth": 1024,
     "windowHeight": 768,
-    "latestCompilationDirectory": "/Users/thomasburns/Gdevelope-Games-Alevel/A knights Tale/A knights Tale",
+    "latestCompilationDirectory": "/Users/thomasburns/Gdevelop Builds/V1.2.6",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -883,6 +883,32 @@
         "name": "assets/0x72_DungeonTilesetII_v1.4/frames/swampy_idle_anim_f1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shaded Green Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shaded Green Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/ee4fd2266b849eecd265430afcd67d46d0571145d33eec65a72d2f671e1ef09d_Shaded Green Fill Bar.png",
+          "name": "Shaded Green Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wood Bar Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Bar Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/5c3135f6fa8587da82ddea950881fc8b35d422bb806d9331f8b47fdc715ee76a_Wood Bar Border.png",
+          "name": "Wood Bar Border.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1410,9 +1436,9 @@
           "effects": [],
           "behaviors": [
             {
-              "maxSpeed": 100,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "maxSpeed": 100,
               "allowDiagonals": false,
               "rotateObject": false,
               "acceleration": 400,
@@ -3953,6 +3979,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "Layer",
+          "name": "XPbar",
+          "persistentUuid": "c6a60291-2aed-4cb5-b992-c7431753bf98",
+          "width": 205,
+          "x": 371,
+          "y": 704,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4822,7 +4863,7 @@
             {
               "name": "ObjectSpawner",
               "type": "ObjectSpawner::ObjectSpawner",
-              "SpawnPeriod": 3,
+              "SpawnPeriod": 5,
               "OffsetX": 0,
               "OffsetY": 0,
               "JustSpawnedAnObject": false,
@@ -5465,6 +5506,71 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "7dcab69a6f649e686d80ac37d60d80e382638df4e2306f422dab47e3d266044d",
+          "name": "XPbar",
+          "tags": "",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "InitialValue": 8,
+            "MaxValue": 16,
+            "BarTopPadding": 8,
+            "BarRightPadding": 10,
+            "BarBottomPadding": 8,
+            "BarLeftPadding": 10,
+            "PreviousHighValueDuration": 0
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 8,
+              "height": 35,
+              "leftMargin": 10,
+              "rightMargin": 10,
+              "texture": "Wood Bar Border.png",
+              "tiled": true,
+              "topMargin": 8,
+              "width": 397
+            },
+            "Buffer": {
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Shaded Green Fill Bar.png",
+              "tiled": false,
+              "topMargin": 0,
+              "width": 32
+            },
+            "FillBar": {
+              "bottomMargin": 9,
+              "height": 19,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "Shaded Green Fill Bar.png",
+              "tiled": false,
+              "topMargin": 9,
+              "width": 19
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "8 / 16",
+              "font": "",
+              "textAlignment": "center",
+              "characterSize": 16,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              }
+            }
+          }
         }
       ],
       "events": [
@@ -5486,23 +5592,23 @@
           "conditions": [
             {
               "type": {
-                "value": "Health::Health::IsDead"
+                "value": "KeyPressed"
               },
               "parameters": [
-                "Player",
-                "Health",
-                ""
+                "",
+                "w"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "AddForceXY"
               },
               "parameters": [
-                "",
-                "\"Dead\"",
+                "Player",
+                "0",
+                "-200",
                 ""
               ]
             }
@@ -5548,33 +5654,6 @@
               },
               "parameters": [
                 "Player",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "w"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AddForceXY"
-              },
-              "parameters": [
-                "Player",
-                "0",
-                "-200",
                 ""
               ]
             }
@@ -5657,6 +5736,33 @@
           "conditions": [
             {
               "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Dead\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -5719,20 +5825,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -5881,51 +5973,8 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Staff",
-          "comment2": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
           "comment": "Enemy",
           "comment2": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -6287,16 +6336,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -6321,48 +6360,6 @@
                 "Health",
                 "=",
                 "Player.Health::Health()",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Heal",
-                "Room",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Heal",
                 ""
               ]
             }
@@ -6419,11 +6416,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -6496,7 +6488,7 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Repeat",
-              "repeatExpression": "6",
+              "repeatExpression": "4",
               "conditions": [
                 {
                   "type": {
@@ -6562,11 +6554,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -6626,11 +6613,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -6911,12 +6893,100 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Start",
+          "comment": "Main menu",
           "comment2": ""
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Menu\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Xp system",
+          "comment2": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::Health"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "=",
+                "3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::IsJustHealed"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "XPbar",
+                "+",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::IsFull"
+              },
+              "parameters": [
+                "XPbar",
+                ""
+              ]
+            }
+          ],
           "actions": []
         }
       ],
@@ -7853,8 +7923,8 @@
           "name": "Book",
           "persistentUuid": "a89742bd-b51e-497e-97ae-6314c044a06a",
           "width": 0,
-          "x": 320,
-          "y": 0,
+          "x": 352,
+          "y": -7,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -9137,6 +9207,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -9147,10 +9219,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 50,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -9246,6 +9316,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -9256,10 +9328,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -9355,6 +9425,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -9365,10 +9437,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -9464,6 +9534,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -9474,10 +9546,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 200,
-              "name": "Pathfinding",
               "rotateObject": false,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
