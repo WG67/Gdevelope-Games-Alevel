@@ -3786,7 +3786,7 @@
               "parameters": [
                 "",
                 "1",
-                "\"X\"",
+                "\"A\"",
                 ""
               ]
             }
@@ -3877,56 +3877,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Door",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Gamepads::C_Button_pressed"
-              },
-              "parameters": [
-                "",
-                "1",
-                "\"Y\"",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Main\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Swamp\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -3949,33 +3899,6 @@
               "parameters": [
                 "",
                 "Escape"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"Menu\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Gamepads::C_Button_pressed"
-              },
-              "parameters": [
-                "",
-                "1",
-                "\"Start\"",
-                ""
               ]
             }
           ],
