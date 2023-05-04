@@ -23,7 +23,7 @@
     "author": "",
     "windowWidth": 1024,
     "windowHeight": 768,
-    "latestCompilationDirectory": "/Users/thomasburns/Gdevelop Builds/V1.3.3",
+    "latestCompilationDirectory": "/Users/thomasburns/Gdevelop Builds/V1.3.3.door",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -3387,17 +3387,6 @@
           "conditions": [
             {
               "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-              },
-              "parameters": [
-                "XPbar",
-                "=",
-                "5",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "Gamepads::C_Button_pressed"
               },
               "parameters": [
@@ -3436,17 +3425,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
-              },
-              "parameters": [
-                "XPbar",
-                "=",
-                "5",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "KeyPressed"
@@ -3658,35 +3636,6 @@
           ],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Repeat",
-              "repeatExpression": "4",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AjoutHasard"
-                  },
-                  "parameters": [
-                    "",
-                    "Room"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "Spawner",
-                    "Room.X()",
-                    "Room.CenterY()",
-                    "\"1\""
-                  ]
-                }
-              ]
-            },
-            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -3717,6 +3666,35 @@
                     "Door",
                     "Room.CenterX()",
                     "Room.Y()",
+                    "\"1\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "4",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AjoutHasard"
+                  },
+                  "parameters": [
+                    "",
+                    "Room"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Spawner",
+                    "Room.X()",
+                    "Room.CenterY()",
                     "\"1\""
                   ]
                 }
